@@ -1,4 +1,4 @@
-10/3/24, 4:33 PM
+10/3/24, 4:36 PM
 Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
