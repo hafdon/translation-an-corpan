@@ -3,12 +3,12 @@ Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
 Total:           	      11	  160	                    705	                   854	     1	
-Remaining:       	       2	   29	                    118	                   145	     1	
+Remaining:       	       0	    0	                      0	                     0	     0	
 Unique:          	      11	  160	                    705	                   854	     1	
-Unique Remaining:	       2	   29	                    118	                   145	     1	
+Unique Remaining:	       0	    0	                      0	                     0	     0	
 
 
 Individual File Statistics:
 
 File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
-001.txt  	            11	                 2	             11	                        2	        160	             29	         160	                    29	                          705	                              118	                           705	                                     118	                         854	                             145	                          854	                                    145	
+001.txt  	            11	                 0	             11	                        0	        160	              0	         160	                     0	                          705	                                0	                           705	                                       0	                         854	                               0	                          854	                                      0	
