@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Bhreathnaigh sí thar a spéaclaí móra ar an mbeirt bhuachaillí óga a bhí fós ag breathnú ar an radharc scanrúil.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241003T233655Z" creationid="starkat" creationdate="20241003T233655Z">
+        <seg>She looked over her large glasses at the two young boys that were still looking at the terrifying sight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Bhí masc gránna déanta as ceann cnámharlaigh ar aghaidh an duine a raibh an scian ina lámh.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241003T233009Z" creationid="starkat" creationdate="20241003T232151Z">
@@ -30,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Bhí screadach [scréachach] agus scréachaíl le cloisteáil sa chúlra.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241003T233632Z" creationid="starkat" creationdate="20241003T233632Z">
+        <seg>Screaming and screeching could be heard in the background.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Bhí scéin ina haghaidh ach níor tháinig scread ar bith as a béal oscailte.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241003T204210Z" creationid="starkat" creationdate="20241003T204210Z">
@@ -38,10 +54,43 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Bogaigí ar an bpointe!'</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241003T233718Z" creationid="starkat" creationdate="20241003T233718Z">
+        <seg>Move right now!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Ní fhéadfadh sí bogadh mar bhí a lámha ceangailte den leac mhór ar a raibh sí ina luí.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241003T231348Z" creationid="starkat" creationdate="20241003T231348Z">
         <seg>She couldn't move, as her hand was tied to a large stone slab on which she was lying. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>“A Phóil, a Aodh, sibhse chomh maith.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241003T233708Z" creationid="starkat" creationdate="20241003T233708Z">
+        <seg>Paul, Aodh, you as well.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>“Fág seo, tá i bhfad níos mó le feiceáil,” a d'ordaigh Bean Uí Ruiséil agus í ag iarraidh an rang a bhogadh ó na mionsamhlacha uafáis.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241003T233638Z" creationid="starkat" creationdate="20241003T233638Z">
+        <seg>Leave this, there is a lot more to see, ordered Mrs. Russell while she tried to move the class from the horror diorama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>“Níl muid ach ag léamh mar gheall orthu, arsa Pól Ó Gríofa, gan a shúile a bhaint de na mionsamhlacha a bhí os a chomhair.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241003T233741Z" creationid="starkat" creationdate="20241003T233741Z">
+        <seg>We're only reading about them, said Paul O'Griofa, without removing his eyes from the diorama that was in front of him.
+</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
