@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>“A Phóil, a Aodh, sibhse chomh maith.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241003T233708Z" creationid="starkat" creationdate="20241003T233708Z">
+        <seg>Paul, Aodh, you as well.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>“Fág seo, tá i bhfad níos mó le feiceáil,” a d'ordaigh Bean Uí Ruiséil agus í ag iarraidh an rang a bhogadh ó na mionsamhlacha uafáis.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241003T233638Z" creationid="starkat" creationdate="20241003T233638Z">
