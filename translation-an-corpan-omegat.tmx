@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Bhí masc gránna déanta as ceann cnámharlaigh ar aghaidh an duine a raibh an scian ina lámh.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241003T232151Z" creationid="starkat" creationdate="20241003T232151Z">
+        <seg>An ugly mask</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Bhí scian fhada ar crochadh orlach os cionn an chailín, a gob fuilteach dírithe i dtreo a croí.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241003T204040Z" creationid="starkat" creationdate="20241003T203704Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241003T204210Z" creationid="starkat" creationdate="20241003T204210Z">
         <seg>Fear was in her face but no scream at all came from her open mouth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Ní fhéadfadh sí bogadh mar bhí a lámha ceangailte den leac mhór ar a raibh sí ina luí.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241003T231348Z" creationid="starkat" creationdate="20241003T231348Z">
+        <seg>She couldn't move, as her hand was tied to a large stone slab on which she was lying. </seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

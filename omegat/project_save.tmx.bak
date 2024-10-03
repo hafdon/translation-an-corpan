@@ -16,8 +16,24 @@
       <tuv lang="ga">
         <seg>Bhí scian fhada ar crochadh orlach os cionn an chailín, a gob fuilteach dírithe i dtreo a croí.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241003T203704Z" creationid="starkat" creationdate="20241003T203704Z">
-        <seg>A long knife was hanging an inch above the girl, its bloody tip pointed directly at her heart.</seg>
+      <tuv lang="en-US" changeid="starkat" changedate="20241003T204040Z" creationid="starkat" creationdate="20241003T203704Z">
+        <seg>A long knife hung inches above the girl, its bloody tip pointed directly at her heart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Bhí scéin ina haghaidh ach níor tháinig scread ar bith as a béal oscailte.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241003T204210Z" creationid="starkat" creationdate="20241003T204210Z">
+        <seg>Fear was in her face but no scream at all came from her open mouth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Ní fhéadfadh sí bogadh mar bhí a lámha ceangailte den leac mhór ar a raibh sí ina luí.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241003T231348Z" creationid="starkat" creationdate="20241003T231348Z">
+        <seg>She couldn't move, as her hand was tied to a large stone slab on which she was lying. </seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
