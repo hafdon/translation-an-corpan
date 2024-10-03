@@ -1,0 +1,14 @@
+10/3/24, 3:56 PM
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	      11	  160	                    705	                   854	     1	
+Remaining:       	       8	  126	                    553	                   671	     1	
+Unique:          	      11	  160	                    705	                   854	     1	
+Unique Remaining:	       8	  126	                    553	                   671	     1	
+
+
+Individual File Statistics:
+
+File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+001.txt  	            11	                 8	             11	                        8	        160	            126	         160	                   126	                          705	                              553	                           705	                                     553	                         854	                             671	                          854	                                    671	

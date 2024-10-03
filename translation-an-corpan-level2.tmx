@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="ga"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>An taispeántas</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241003T203503Z" creationid="starkat" creationdate="20241003T203503Z">
+        <seg>The exhibition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>Bhí scian fhada ar crochadh orlach os cionn an chailín, a gob fuilteach dírithe i dtreo a croí.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241003T204040Z" creationid="starkat" creationdate="20241003T203704Z">
+        <seg>A long knife hung inches above the girl, its bloody tip pointed directly at her heart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>Bhí scéin ina haghaidh ach níor tháinig scread ar bith as a béal oscailte.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241003T204210Z" creationid="starkat" creationdate="20241003T204210Z">
+        <seg>Fear was in her face but no scream at all came from her open mouth.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
