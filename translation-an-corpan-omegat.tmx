@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Bhí screadach &lt;g1&gt;scréachach&lt;/g1&gt; agus scréachaíl le cloisteáil sa chúlra.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241004T042112Z" creationid="starkat" creationdate="20241004T042112Z">
+        <seg>Screaming and screeching could be heard in the background.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Bhí screadach [scréachach] agus scréachaíl le cloisteáil sa chúlra.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241003T233632Z" creationid="starkat" creationdate="20241003T233632Z">
@@ -62,10 +70,26 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Bhí sé de nós acu buachaillí óga a íobairt, mar shampla.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241004T042743Z" creationid="starkat" creationdate="20241004T042743Z">
+        <seg>it was common for them to sacrifice young boys, for example.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Bogaigí ar an bpointe!'</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241003T233718Z" creationid="starkat" creationdate="20241003T233718Z">
         <seg>Move right now!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Caibidil a haon: An taispeántas</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241004T042328Z" creationid="starkat" creationdate="20241004T042328Z">
+        <seg>Chapter one: The exhibition</seg>
       </tuv>
     </tu>
     <tu>
@@ -120,8 +144,8 @@
       <tuv lang="ga">
         <seg>— In ainneoin an dul chun cinn a rinneadh ó thaobh teicneolaíochta agus eolaíochta de, bhí roinnt nósanna barbartha á gcleachtadh i ríocht na Manatayach go dtí deireadh a sibhialtachta.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241004T033057Z" creationid="starkat" creationdate="20241004T030949Z">
-        <seg>— In </seg>
+      <tuv lang="en-US" changeid="starkat" changedate="20241004T042706Z" creationid="starkat" creationdate="20241004T030949Z">
+        <seg>— Despite the progress that was made from a technological and scientific side, some barbaric habits were being practiced in the Manataya kingdom until the end of their civilization.</seg>
       </tuv>
     </tu>
     <tu>
