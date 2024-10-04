@@ -37,6 +37,18 @@
       </tuv>
     </tu>
     <tu>
+      <note>See translation notes at bottom.
+
+- Zach
+
+===
+Translation notes, since the beta dictionary gets these incorrect:
+leathdhuine-leathiaguar = half-man, half-jaguar</note>
+      <tuv lang="ga">
+        <seg>Bhí dea-aoibh ar an rang ar fad agus iad ag caitheamh an lae in Iarsmalann na Cathrach ag breathnú ar an taispeántas mór nua, «Ríocht Rúnda na Manatayach».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="ga">
         <seg>Bhí masc gránna déanta as ceann cnámharlaigh ar aghaidh an duine a raibh an scian ina lámh.</seg>
       </tuv>
@@ -134,6 +146,14 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Rinne an bheirt acu gáire agus bhog siad ar aghaidh.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241004T045041Z" creationid="starkat" creationdate="20241004T045041Z">
+        <seg>The two of them laughed and they went forward.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Tar éis di imeacht as radharc go dtí an chéad rannóg eile san iarsmalann, chas sé i dtreo a chara agus é ag brú a spéaclaí siar ar a shrón.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T030626Z" creationid="starkat" creationdate="20241004T030626Z">
@@ -210,6 +230,14 @@
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T043443Z" creationid="starkat" creationdate="20241004T043436Z">
         <seg>— That is one way to make sure that I wouldn't watch the soccer match on Saturday night.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>— Tar éis an chluiche dheireanaigh, sin é an rud ba chóir dóibh a dhéanamh leis an mbainisteoir agus an lántosaí, arsa Pól agus é ag díriú a mhéire i dtreo na mionsamhlacha.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241004T045004Z" creationid="starkat" creationdate="20241004T045004Z">
+        <seg>— After the last game, that's what they should do with the manager and the full forward, said Paul, while pointing a finger towards the diorama. </seg>
       </tuv>
     </tu>
     <tu>

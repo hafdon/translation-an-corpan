@@ -22,9 +22,9 @@ Paul drew his fingers through his long dark curly hair while he read the plaque 
 
 — Ah! said Aodh again while he put stress on himsef.  — That is one way to make sure that I wouldn't watch the soccer match on Saturday night. I would be incredibly angry if I missed a Man. U. game. U.
 
-— Tar éis an chluiche dheireanaigh, sin é an rud ba chóir dóibh a dhéanamh leis an mbainisteoir agus an lántosaí, arsa Pól agus é ag díriú a mhéire i dtreo na mionsamhlacha.
+— After the last game, that's what they should do with the manager and the full forward, said Paul, while pointing a finger towards the diorama.
 
-Rinne an bheirt acu gáire agus bhog siad ar aghaidh. Bhí dea-aoibh ar an rang ar fad agus iad ag caitheamh an lae in Iarsmalann na Cathrach ag breathnú ar an taispeántas mór nua, «Ríocht Rúnda na Manatayach».
+The two of them laughed and they went forward. Bhí dea-aoibh ar an rang ar fad agus iad ag caitheamh an lae in Iarsmalann na Cathrach ag breathnú ar an taispeántas mór nua, «Ríocht Rúnda na Manatayach».
 
 [See translation notes at bottom. - Zach]
 
