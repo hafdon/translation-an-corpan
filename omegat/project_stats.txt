@@ -1,16 +1,16 @@
-10/3/24, 9:27 PM
+10/3/24, 9:29 PM
 Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
 Total:           	     133	 1777	                   8162	                  9843	     3	
-Remaining:       	      76	 1000	                   4738	                  5687	     2	
+Remaining:       	      74	  978	                   4616	                  5545	     2	
 Unique:          	      92	 1203	                   5628	                  6767	     2	
-Unique Remaining:	      67	  882	                   4186	                  5023	     1	
+Unique Remaining:	      66	  871	                   4125	                  4952	     1	
 
 
 Individual File Statistics:
 
 File Name                    	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
-chapter_01.md                	            90	                67	             90	                       67	       1192	            882	        1192	                   882	                         5556	                             4186	                          5556	                                    4186	                        6686	                            5023	                         6686	                                   5023	
+chapter_01.md                	            90	                66	             90	                       66	       1192	            871	        1192	                   871	                         5556	                             4125	                          5556	                                    4125	                        6686	                            4952	                         6686	                                   4952	
 001.txt                      	            11	                 0	              2	                        0	        160	              0	          11	                     0	                          705	                                0	                            72	                                       0	                         854	                               0	                           81	                                      0	
-chapter_01_the_exhibition.txt	            32	                 9	              0	                        0	        425	            118	           0	                     0	                         1901	                              552	                             0	                                       0	                        2303	                             664	                            0	                                      0	
+chapter_01_the_exhibition.txt	            32	                 8	              0	                        0	        425	            107	           0	                     0	                         1901	                              491	                             0	                                       0	                        2303	                             593	                            0	                                      0	
