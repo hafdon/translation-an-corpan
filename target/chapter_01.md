@@ -20,7 +20,7 @@ She couldn't move, as her hand was tied to a large stone slab on which she was l
 
 Paul drew his fingers through his long dark curly hair while he read the plaque that was in front of the diorama. — This is it, he said. He read the writing that was on the plaque aloud. — Despite the progress that was made from a technological and scientific side, some barbaric habits were being practiced in the Manataya kingdom until the end of their civilization. it was common for them to sacrifice young boys, for example. The Manataya believed that young people's blood appeased the anger of the gods.
 
-— Iuch! arsa Aodh arís agus é ag cur strainceanna air féin. — Sin bealach amháin lena chinntiú nach mbeinn ag breathnú ar an sacar tráthnóna Sathairn. Bheadh fearg an domhain orm dá gcaillfinn cluiche de chuid Man. U.
+— Ah! said Aodh again while he put stress on himsef.  — That is one way to make sure that I wouldn't watch the soccer match on Saturday night. I would be incredibly angry if I missed a Man. U. game. U.
 
 — Tar éis an chluiche dheireanaigh, sin é an rud ba chóir dóibh a dhéanamh leis an mbainisteoir agus an lántosaí, arsa Pól agus é ag díriú a mhéire i dtreo na mionsamhlacha.
 
