@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Bogaigí ar an bpointe!'</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241003T233718Z" creationid="starkat" creationdate="20241003T233718Z">
+        <seg>Move right now!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Ní fhéadfadh sí bogadh mar bhí a lámha ceangailte den leac mhór ar a raibh sí ina luí.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241003T231348Z" creationid="starkat" creationdate="20241003T231348Z">
@@ -74,6 +82,15 @@
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241003T233638Z" creationid="starkat" creationdate="20241003T233638Z">
         <seg>Leave this, there is a lot more to see, ordered Mrs. Russell while she tried to move the class from the horror diorama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>“Níl muid ach ag léamh mar gheall orthu, arsa Pól Ó Gríofa, gan a shúile a bhaint de na mionsamhlacha a bhí os a chomhair.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241003T233741Z" creationid="starkat" creationdate="20241003T233741Z">
+        <seg>We're only reading about them, said Paul O'Griofa, without removing his eyes from the diorama that was in front of him.
+</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
