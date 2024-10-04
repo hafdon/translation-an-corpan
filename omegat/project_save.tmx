@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="ga">
+        <seg>Agus an screadach sin … iuch!</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241004T030720Z" creationid="starkat" creationdate="20241004T030720Z">
+        <seg>And that screaming ... yuck!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>An taispeántas</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241003T203503Z" creationid="starkat" creationdate="20241003T203503Z">
@@ -62,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Cén scéal a bhaineann leo, dar leat?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241004T030759Z" creationid="starkat" creationdate="20241004T030736Z">
+        <seg>What's the story with them, do you think?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Ní fhéadfadh sí bogadh mar bhí a lámha ceangailte den leac mhór ar a raibh sí ina luí.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241003T231348Z" creationid="starkat" creationdate="20241003T231348Z">
@@ -70,10 +86,34 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Tar éis di imeacht as radharc go dtí an chéad rannóg eile san iarsmalann, chas sé i dtreo a chara agus é ag brú a spéaclaí siar ar a shrón.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241004T030626Z" creationid="starkat" creationdate="20241004T030626Z">
+        <seg>After she had gone out of sight, to the next section in the museum, he turned to his friend and he pushed his glasses up on his nose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Tharraing Pól a mhéara go mall trína ghruaig dhorcha chatach, agus é ag léamh na plaice a bhí os comhair na mionsamhlacha.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241004T030855Z" creationid="starkat" creationdate="20241004T030855Z">
+        <seg>Paul drew his fingers through his long dark curly hair while he read the plaque that was in front of the diorama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>— Ceart go leor, ach ná bígí i bhfad, arsa an Mháistreás.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T030349Z" creationid="starkat" creationdate="20241004T030335Z">
         <seg>— Ok, but don't be long, said the teacher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>— Nach iontach an chuma atá orthu?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241004T030646Z" creationid="starkat" creationdate="20241004T030646Z">
+        <seg>— Don't they look great?</seg>
       </tuv>
     </tu>
     <tu>
