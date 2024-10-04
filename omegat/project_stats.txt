@@ -1,15 +1,15 @@
-10/3/24, 8:08 PM
+10/3/24, 8:09 PM
 Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
 Total:           	      43	  585	                   2606	                  3157	     2	
-Remaining:       	      13	  173	                    803	                   968	     1	
+Remaining:       	      10	  129	                    598	                   720	     1	
 Unique:          	      32	  425	                   1901	                  2303	     2	
-Unique Remaining:	      13	  173	                    803	                   968	     1	
+Unique Remaining:	      10	  129	                    598	                   720	     1	
 
 
 Individual File Statistics:
 
 File Name                    	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
 001.txt                      	            11	                 0	             11	                        0	        160	              0	         160	                     0	                          705	                                0	                           705	                                       0	                         854	                               0	                          854	                                      0	
-chapter_01_the_exhibition.txt	            32	                13	             21	                       13	        425	            173	         265	                   173	                         1901	                              803	                          1196	                                     803	                        2303	                             968	                         1449	                                    968	
+chapter_01_the_exhibition.txt	            32	                10	             21	                       10	        425	            129	         265	                   129	                         1901	                              598	                          1196	                                     598	                        2303	                             720	                         1449	                                    720	
