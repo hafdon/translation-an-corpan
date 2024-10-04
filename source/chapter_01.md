@@ -1,0 +1,26 @@
+---
+title: "Caibidil a haon: An taispeántas"
+weight: 2
+translationKey: "chapter01"
+---
+
+# An taispeántas
+
+Bhí scian fhada ar crochadh orlach os cionn an chailín, a gob fuilteach dírithe i dtreo a croí. Bhí scéin ina haghaidh ach níor tháinig scread ar bith as a béal oscailte.
+
+Ní fhéadfadh sí bogadh mar bhí a lámha ceangailte den leac mhór ar a raibh sí ina luí. Bhí masc gránna déanta as ceann cnámharlaigh ar aghaidh an duine a raibh an scian ina lámh. Bhí screadach [scréachach] agus scréachaíl le cloisteáil sa chúlra.
+
+“Fág seo, tá i bhfad níos mó le feiceáil,” a d'ordaigh Bean Uí Ruiséil agus í ag iarraidh an rang a bhogadh ó na mionsamhlacha uafáis. Bhreathnaigh sí thar a spéaclaí móra ar an mbeirt bhuachaillí óga a bhí fós ag breathnú ar an radharc scanrúil. “A Phóil, a Aodh, sibhse chomh maith. Bogaigí ar an bpointe!'
+
+“Níl muid ach ag léamh mar gheall orthu, arsa Pól Ó Gríofa, gan a shúile a bhaint de na mionsamhlacha a bhí os a chomhair.
+
+— Ceart go leor, ach ná bígí i bhfad, arsa an Mháistreás. —Tá an taispeántas an-mhór.
+
+— Tá go maith, arsa Aodh Ó Táilliúir. Tar éis di imeacht as radharc go dtí an chéad rannóg eile san iarsmalann, chas sé i dtreo a chara agus é ag brú a spéaclaí siar ar a shrón. — Nach iontach an chuma atá orthu? Agus an screadach sin … iuch! Cén scéal a bhaineann leo, dar leat?
+
+Tharraing Pól a mhéara go mall trína ghruaig dhorcha chatach, agus é ag léamh na plaice a bhí os comhair na mionsamhlacha. — Seo é, ar sé. Léigh sé an scríbhinn a bhí ar an bplaic os ard. — In ainneoin an dul chun cinn a rinneadh ó thaobh teicneolaíochta agus eolaíochta de, bhí roinnt nósanna barbartha á gcleachtadh i ríocht na Manatayach go dtí deireadh a sibhialtachta. Bhí sé de nós acu buachaillí óga a íobairt, mar shampla. Chreid na Manatayaigh gur shásaigh fuil daoine óga a ndéithe feargacha.
+
+— Iuch! arsa Aodh arís agus é ag cur strainceanna air féin. — Sin bealach amháin lena chinntiú nach mbeinn ag breathnú ar an sacar tráthnóna Sathairn. Bheadh fearg an domhain orm dá gcaillfinn cluiche de chuid Man. U.
+— Tar éis an chluiche dheireanaigh, sin é an rud ba chóir dóibh a dhéanamh leis an mbainisteoir agus an lántosaí, arsa Pól agus é ag díriú a mhéire i dtreo na mionsamhlacha.
+
+Rinne an bheirt acu gáire agus bhog siad ar aghaidh. Bhí dea-aoibh ar an rang ar fad agus iad ag caitheamh an lae in Iarsmalann na Cathrach ag breathnú ar an taispeántas mór nua, «Ríocht Rúnda na Manatayach».
