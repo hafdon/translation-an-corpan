@@ -16,8 +16,8 @@
       <tuv lang="ga">
         <seg>An taispeántas</seg>
       </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241003T203503Z" creationid="starkat" creationdate="20241003T203503Z">
-        <seg>The exhibition</seg>
+      <tuv lang="en-US" changeid="starkat" changedate="20241004T045902Z" creationid="starkat" creationdate="20241003T203503Z">
+        <seg>The exhibit</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,6 +46,9 @@ Translation notes, since the beta dictionary gets these incorrect:
 leathdhuine-leathiaguar = half-man, half-jaguar</note>
       <tuv lang="ga">
         <seg>Bhí dea-aoibh ar an rang ar fad agus iad ag caitheamh an lae in Iarsmalann na Cathrach ag breathnú ar an taispeántas mór nua, «Ríocht Rúnda na Manatayach».</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241004T045757Z">
+        <seg>The whole class had a cheerful demeanor as they spent the day in the City Museum looking at the big new exhibit, «The Secret Kingdom of the Manataya». </seg>
       </tuv>
     </tu>
     <tu>
@@ -108,8 +111,8 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       <tuv lang="ga">
         <seg>Caibidil a haon: An taispeántas</seg>
       </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241004T042328Z" creationid="starkat" creationdate="20241004T042328Z">
-        <seg>Chapter one: The exhibition</seg>
+      <tuv lang="en-US" changeid="starkat" changedate="20241004T045838Z" creationid="starkat" creationdate="20241004T042328Z">
+        <seg>Chapter one: The exhibit</seg>
       </tuv>
     </tu>
     <tu>
@@ -252,8 +255,8 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       <tuv lang="ga">
         <seg>—Tá an taispeántas an-mhór.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241004T030403Z" creationid="starkat" creationdate="20241004T030403Z">
-        <seg>— The exhibition is very big.</seg>
+      <tuv lang="en-US" changeid="starkat" changedate="20241004T045849Z" creationid="starkat" creationdate="20241004T030403Z">
+        <seg>— The exhibit is very big.</seg>
       </tuv>
     </tu>
     <tu>

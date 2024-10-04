@@ -43,12 +43,12 @@
 
 ===
 Translation notes, since the beta dictionary gets these incorrect:
-leathdhuine-leathiaguar = half-man, half-jaguar
-leathdhuine-leathanacanda = half-man, half-anaconda
-pearóid-duine = parrot-man
-</note>
+leathdhuine-leathiaguar = half-man, half-jaguar</note>
       <tuv lang="ga">
         <seg>Bhí dea-aoibh ar an rang ar fad agus iad ag caitheamh an lae in Iarsmalann na Cathrach ag breathnú ar an taispeántas mór nua, «Ríocht Rúnda na Manatayach».</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241004T045757Z">
+        <seg>The whole class had a cheerful demeanor as they spent the day in the City Museum looking at the big new exhibit, «The Secret Kingdom of the Manataya». </seg>
       </tuv>
     </tu>
     <tu>
