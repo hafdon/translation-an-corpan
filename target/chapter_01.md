@@ -18,7 +18,7 @@ She couldn't move, as her hand was tied to a large stone slab on which she was l
 
 — Alright, said Aodh O'Táilliúir.  After she had gone out of sight, to the next section in the museum, he turned to his friend and he pushed his glasses up on his nose. — Don't they look great? And that screaming ... yuck! What's the story with them, do you think?
 
-Paul drew his fingers through his long dark curly hair while he read the plaque that was in front of the diorama. — This is it, he said. He read the writing that was on the plaque aloud. — Despite the progress that was made from a technological and scientific side, some barbaric habits were being practiced in the Manataya kingdom until the end of their civilization. it was common for them to sacrifice young boys, for example. The Manataya believed that young people's blood appeased the anger of the gods.
+Paul drew his fingers through his long dark curly hair while he read the plaque that was in front of the diorama. — This is it, he said. He read the writing that was on the plaque aloud. — Despite the progress that was made from a technological and scientific side, some barbaric habits were being practiced in the Manataya kingdom until the end of their civilization. It was common for them to sacrifice young boys, for example. The Manataya believed that young people's blood appeased the anger of the gods.
 
 — Ah! said Aodh again while he put stress on himsef.  — That is one way to make sure that I wouldn't watch the soccer match on Saturday night. I would be incredibly angry if I missed a Man. U. game. U.
 
@@ -28,17 +28,17 @@ The two of them laughed and they went forward. The whole class had a cheerful de
 
 [See translation notes at bottom. - Zach]
 
-Bhí cur síos ar an taispeántas sna nuachtáin, ar an raidió agus ar an teilifís, agus labhair go leor staraithe go díograiseach faoi.
+The exhibit was described in the news, on the radio and on the television, and a lot of historians spoke about it.
 
-Bhí Daithí Fitswalter, an seandálaí clúiteach, tar éis teacht ar iarsmaí cathrach, cathair iontach mór agus í ceilte i bhforaois thiubh ar an leithinis idir deisceart Mheicsiceo agus tuaisceart Ghuatamala. Faoi shibhialtacht na Manatayach a bhí an chathair ar feadh breis agus trí mhíle bhain. Tar éis do Fitswalter an chathair iontach seo a aimsiú labhair go leor daoine faoi «athscríobh na staire». Ach is ar éigean a bheadh an Príomhoide ag cur fáilte roimh a leithéid agus an scoil tar éis carn airgid a chaitheamh ar leabhair nua staire don leabharlann.
+Daithí Fitswalter, the famous archaeologist, after finding remains of a city, a large amazing city hidden in a thick forest on the peninsula between the southern part of Mexico and the northern part of Guatemala. The city was under the civilization of the Manataya for more than three thousand years. After finding this wondrous city, Fitswalter spoke to a lot of people about rewriting its history. But the Principal would hardly welcome the like while the school was after spending a pile of money on new history books for the library.
 
-Tháinig an bheirt bhuachaillí suas leis an gcuid eile den rang. Bhí snoíodóireacht aisteach de dhaoine agus de chloigne ainmhithe sa chéad seomra eile. Bhí Pól agus Aodh neirbhíseach agus iad ag siúl idir na dealbha uafara seo. Thug Pól faoi deara go raibh ball óg d'fhoireann an taispeántais, a raibh gruaig fhada dhorcha air, agus í cíortha siar ar a chloigeann, ag caint go bríomhar leis an rang. Bhreathnaigh Pól ar an bhfógra geal a bhí ar a T-léine: Is mise Tomás. Cuir ceist orm!
+The two boys came up to the rest of the class. A strange carving of people and  of animal heads was in the next room. Paul and Aodh were nervous while they were going between these terriifying figures. Paul noticed that a young member of the exhibit group, who had long dark hair, combed back on his head, speaking in a lively manner to the class.  Paul looked at the white sticker that was on his T-shirt: I'm Thomas.  Ask me a question.
 
-— Bhíodh na Manatayaigh ag adhradh déithe éagsúla, arsa Tomás, — agus ba mheascán de dhaoine agus d'ainmhithe cuid de na déithe sin, leathdhuine-leathiaguar, leathdhuine-leathanacanda nó an pearóid-duine.
+— The Manataya worshipped different gods, said Thomas, — and some of those gods were hybrids of peolpe and animals: half-man, half-jaguar; half-man, half-anaconda; or the parrot man.
 
-Thosaigh cuid den rang ag gáire, ach chiúnaigh an strainc fheargach ar aghaidh Bhean Uí Ruiséil iad.
+Some of the class started laughing, but the angry grimace on the face of Mrs. Russell quieted them.
 
-— Ní deas nó greannmhar a bhí an phearóid, arsa Tomás agus é ag tarraingt ar a fhéasóg bheag. — Chreid na Manatayaigh go [gur] stróiceadh an dia [dá] speisialta seo daoine ina bpíosaí lena ghob géar láidir. Chiúnaigh an rang go tobann. — Creideann na staraithe gur chum cinnirí na Manatayach an scéal ar fad. Is cosúil go mbíodh na hUaisle seo ag úsáid an scéil chun nach mbeadh a fhios ag an bpobal gur ag cur daoine nár aontaigh leo chun báis a bhíodh siad i ndáiríre. Ach bhíodh eagla mhór ar phobal an Mhanataya nuair a d'fheicfidís cleite pearóide, mar ba chomhartha é go raibh dainséar mór ann.
+— The parrot wasn't nice or funny, said Thomas while he pulled on his small beard. — The Manataya believed that this special god tore people into pieces with his strong sharp beak. The class suddenly calmed down. — Creideann na staraithe gur chum cinnirí na Manatayach an scéal ar fad. Is cosúil go mbíodh na hUaisle seo ag úsáid an scéil chun nach mbeadh a fhios ag an bpobal gur ag cur daoine nár aontaigh leo chun báis a bhíodh siad i ndáiríre. Ach bhíodh eagla mhór ar phobal an Mhanataya nuair a d'fheicfidís cleite pearóide, mar ba chomhartha é go raibh dainséar mór ann.
 
 Bhog Bean Uí Ruiséil ar aghaidh.
 

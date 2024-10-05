@@ -6,14 +6,6 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="ga">
-        <seg>Ach is ar éigean a bheadh an Príomhoide ag cur fáilte roimh a leithéid agus an scoil tar éis carn airgid a chaitheamh ar leabhair nua staire don leabharlann.</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241005T225112Z" creationid="starkat" creationdate="20241005T225008Z">
-        <seg>But the Principal would hardly welcome the like while the school was after spending a pile of money on new history books for the library.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ga">
         <seg>Agus an screadach sin … iuch!</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T030720Z" creationid="starkat" creationdate="20241004T030720Z">
@@ -38,14 +30,6 @@
     </tu>
     <tu>
       <tuv lang="ga">
-        <seg>Bhreathnaigh Pól ar an bhfógra geal a bhí ar a T-léine: Is mise Tomás.</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241005T230716Z" creationid="starkat" creationdate="20241005T230716Z">
-        <seg>Paul looked at the white sticker that was on his T-shirt: I'm Thomas. </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ga">
         <seg>Bhreathnaigh sí thar a spéaclaí móra ar an mbeirt bhuachaillí óga a bhí fós ag breathnú ar an radharc scanrúil.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241003T233655Z" creationid="starkat" creationdate="20241003T233655Z">
@@ -56,16 +40,8 @@
       <tuv lang="ga">
         <seg>Bhí Daithí Fitswalter, an seandálaí clúiteach, tar éis teacht ar iarsmaí cathrach, cathair iontach mór agus í ceilte i bhforaois thiubh ar an leithinis idir deisceart Mheicsiceo agus tuaisceart Ghuatamala.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241005T224007Z" creationid="starkat" creationdate="20241004T050515Z">
-        <seg>Daithí Fitswalter, the famous archaeologist, after finding remains of a city, a large amazing city hidden in a thick forest on the peninsula between the southern part of Mexico and the northern part of Guatemala.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ga">
-        <seg>Bhí Pól agus Aodh neirbhíseach agus iad ag siúl idir na dealbha uafara seo.</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241005T230310Z" creationid="starkat" creationdate="20241005T230310Z">
-        <seg>Paul and Aodh were nervous while they were going between these terriifying figures.</seg>
+      <tuv lang="en-US" changeid="starkat" changedate="20241004T050515Z" creationid="starkat" creationdate="20241004T050515Z">
+        <seg>Daithí Fitswalter, the famous archaeologist, after finding remains of a city, a large amazing city hidden in a thick forest on the </seg>
       </tuv>
     </tu>
     <tu>
@@ -133,18 +109,10 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
-        <seg>Bhí snoíodóireacht aisteach de dhaoine agus de chloigne ainmhithe sa chéad seomra eile.</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241005T230034Z" creationid="starkat" creationdate="20241005T230034Z">
-        <seg>A strange carving of people and  of animal heads was in the next room.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ga">
         <seg>Bhí sé de nós acu buachaillí óga a íobairt, mar shampla.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241005T224752Z" creationid="starkat" creationdate="20241004T042743Z">
-        <seg>It was common for them to sacrifice young boys, for example.</seg>
+      <tuv lang="en-US" changeid="starkat" changedate="20241004T042743Z" creationid="starkat" creationdate="20241004T042743Z">
+        <seg>it was common for them to sacrifice young boys, for example.</seg>
       </tuv>
     </tu>
     <tu>
@@ -165,14 +133,6 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
-        <seg>Chiúnaigh an rang go tobann.</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241005T232110Z" creationid="starkat" creationdate="20241005T232110Z">
-        <seg>The class suddenly calmed down.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ga">
         <seg>Chreid na Manatayaigh gur shásaigh fuil daoine óga a ndéithe feargacha.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T042945Z" creationid="starkat" creationdate="20241004T042945Z">
@@ -181,26 +141,10 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
-        <seg>Cuir ceist orm!</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241005T230818Z" creationid="starkat" creationdate="20241005T230818Z">
-        <seg>Ask me a question.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ga">
         <seg>Cén scéal a bhaineann leo, dar leat?</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T030759Z" creationid="starkat" creationdate="20241004T030736Z">
         <seg>What's the story with them, do you think?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ga">
-        <seg>Faoi shibhialtacht na Manatayach a bhí an chathair ar feadh breis agus trí mhíle bhain.</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241005T224350Z" creationid="starkat" creationdate="20241005T224350Z">
-        <seg>The city was under the civilization of the Manataya for more than three thousand years.</seg>
       </tuv>
     </tu>
     <tu>
@@ -237,42 +181,10 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
-        <seg>Tar éis do Fitswalter an chathair iontach seo a aimsiú labhair go leor daoine faoi «athscríobh na staire».</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241005T224730Z" creationid="starkat" creationdate="20241005T224730Z">
-        <seg>After finding this wondrous city, Fitswalter spoke to a lot of people about rewriting its history.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ga">
         <seg>Tharraing Pól a mhéara go mall trína ghruaig dhorcha chatach, agus é ag léamh na plaice a bhí os comhair na mionsamhlacha.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T030855Z" creationid="starkat" creationdate="20241004T030855Z">
         <seg>Paul drew his fingers through his long dark curly hair while he read the plaque that was in front of the diorama.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ga">
-        <seg>Thosaigh cuid den rang ag gáire, ach chiúnaigh an strainc fheargach ar aghaidh Bhean Uí Ruiséil iad.</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241005T231512Z" creationid="starkat" creationdate="20241005T231512Z">
-        <seg>Some of the class started laughing, but the angry grimace on the face of Mrs. Russell quieted them.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ga">
-        <seg>Thug Pól faoi deara go raibh ball óg d'fhoireann an taispeántais, a raibh gruaig fhada dhorcha air, agus í cíortha siar ar a chloigeann, ag caint go bríomhar leis an rang.</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241005T230536Z" creationid="starkat" creationdate="20241005T230536Z">
-        <seg>Paul noticed that a young member of the exhibit group, who had long dark hair, combed back on his head, speaking in a lively manner to the class. </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ga">
-        <seg>Tháinig an bheirt bhuachaillí suas leis an gcuid eile den rang.</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241005T225201Z" creationid="starkat" creationdate="20241005T225201Z">
-        <seg>The two boys came up to the rest of the class.</seg>
       </tuv>
     </tu>
     <tu>
@@ -293,26 +205,10 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
-        <seg>— Bhíodh na Manatayaigh ag adhradh déithe éagsúla, arsa Tomás, — agus ba mheascán de dhaoine agus d'ainmhithe cuid de na déithe sin, leathdhuine-leathiaguar, leathdhuine-leathanacanda nó an pearóid-duine.</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241005T231229Z" creationid="starkat" creationdate="20241005T231229Z">
-        <seg>— The Manataya worshipped different gods, said Thomas, — and some of those gods were hybrids of peolpe and animals: half-man, half-jaguar; half-man, half-anaconda; or the parrot man.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ga">
         <seg>— Ceart go leor, ach ná bígí i bhfad, arsa an Mháistreás.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T030349Z" creationid="starkat" creationdate="20241004T030335Z">
         <seg>— Ok, but don't be long, said the teacher.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ga">
-        <seg>— Chreid na Manatayaigh go &lt;g1&gt;gur&lt;/g1&gt; stróiceadh an dia &lt;g2&gt;dá&lt;/g2&gt; speisialta seo daoine ina bpíosaí lena ghob géar láidir.</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241005T231843Z" creationid="starkat" creationdate="20241005T231843Z">
-        <seg>— The Manataya believed that this special god tore people into pieces with his strong sharp beak.</seg>
       </tuv>
     </tu>
     <tu>
@@ -337,14 +233,6 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T030646Z" creationid="starkat" creationdate="20241004T030646Z">
         <seg>— Don't they look great?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ga">
-        <seg>— Ní deas nó greannmhar a bhí an phearóid, arsa Tomás agus é ag tarraingt ar a fhéasóg bheag.</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241005T231549Z" creationid="starkat" creationdate="20241005T231549Z">
-        <seg>— The parrot wasn't nice or funny, said Thomas while he pulled on his small beard.</seg>
       </tuv>
     </tu>
     <tu>
