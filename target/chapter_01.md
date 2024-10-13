@@ -38,11 +38,11 @@ The two boys came up to the rest of the class. A strange carving of people and  
 
 Some of the class started laughing, but the angry grimace on the face of Mrs. Russell quieted them.
 
-— The parrot wasn't nice or funny, said Thomas while he pulled on his small beard. — The Manataya believed that this special god tore people into pieces with his strong sharp beak. The class suddenly calmed down. — Creideann na staraithe gur chum cinnirí na Manatayach an scéal ar fad. Is cosúil go mbíodh na hUaisle seo ag úsáid an scéil chun nach mbeadh a fhios ag an bpobal gur ag cur daoine nár aontaigh leo chun báis a bhíodh siad i ndáiríre. Ach bhíodh eagla mhór ar phobal an Mhanataya nuair a d'fheicfidís cleite pearóide, mar ba chomhartha é go raibh dainséar mór ann.
+— The parrot wasn't nice or funny, said Thomas while he pulled on his small beard. — The Manataya believed that this special god tore people into pieces with his strong sharp beak. The class suddenly calmed down. The historians believe that the leaders of the Manataya created the story completely. It seems that these nobles were using the story so that the public would not know that what they were really doing was putting people who didn't agree with them to death. But the Manataya public was very scared when they saw parrot feathers, as it was a sign that there was much danger.
 
-Bhog Bean Uí Ruiséil ar aghaidh.
+Mrs. O'Russell moved forward.
 
-— Tá go maith, tá mé cinnte go bhfuil muid uilig buíoch do Thomás as an stair spéisiúil sin a insint dúinn. Bogfaimid ar aghaidh go dtí príomhrannóg an taispeántais anois. Ná leagaigí lámh ar rud ar bith. Má fheicimse duine ar bith ag láimhseáil rud ar bith, beidh an duine sin ag dul os comhair an Phríomhoide maidin amárach. An dtuigeann sibh é sin?
+Alright, I am sure that all of us are thankful for Tomas for that interesting history that he told to us. We will go forward to the main room of the exhibit now. Don't put a hand on anything. Má fheicimse duine ar bith ag láimhseáil rud ar bith, beidh an duine sin ag dul os comhair an Phríomhoide maidin amárach. An dtuigeann sibh é sin?
 
 — Tuigimid, arsa an rang ar fad le chéile.
 

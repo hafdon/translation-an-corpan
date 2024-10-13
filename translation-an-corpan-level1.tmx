@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="ga">
+        <seg>Ach bhíodh eagla mhór ar phobal an Mhanataya nuair a d'fheicfidís cleite pearóide, mar ba chomhartha é go raibh dainséar mór ann.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241013T204708Z" creationid="starkat" creationdate="20241013T204708Z">
+        <seg>But the Manataya public was very scared when they saw parrot feathers, as it was a sign that there was much danger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Ach is ar éigean a bheadh an Príomhoide ag cur fáilte roimh a leithéid agus an scoil tar éis carn airgid a chaitheamh ar leabhair nua staire don leabharlann.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241005T225112Z" creationid="starkat" creationdate="20241005T225008Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T043557Z" creationid="starkat" creationdate="20241004T043557Z">
         <seg>I would be incredibly angry if I missed a Man. U. game.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Bhog Bean Uí Ruiséil ar aghaidh.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241013T204722Z" creationid="starkat" creationdate="20241013T204722Z">
+        <seg>Mrs. O'Russell moved forward.</seg>
       </tuv>
     </tu>
     <tu>
@@ -157,6 +173,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Bogfaimid ar aghaidh go dtí príomhrannóg an taispeántais anois.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241013T205256Z" creationid="starkat" creationdate="20241013T205256Z">
+        <seg>We will go forward to the main room of the exhibit now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Caibidil a haon: An taispeántas</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T045838Z" creationid="starkat" creationdate="20241004T042328Z">
@@ -205,10 +229,26 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Is cosúil go mbíodh na hUaisle seo ag úsáid an scéil chun nach mbeadh a fhios ag an bpobal gur ag cur daoine nár aontaigh leo chun báis a bhíodh siad i ndáiríre.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241013T204154Z" creationid="starkat" creationdate="20241013T204154Z">
+        <seg>It seems that these nobles were using the story so that the public would not know that what they were really doing was putting people who didn't agree with them to death.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Léigh sé an scríbhinn a bhí ar an bplaic os ard.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T030946Z" creationid="starkat" creationdate="20241004T030946Z">
         <seg>He read the writing that was on the plaque aloud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Ná leagaigí lámh ar rud ar bith.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241013T205321Z" creationid="starkat" creationdate="20241013T205321Z">
+        <seg>Don't put a hand on anything.</seg>
       </tuv>
     </tu>
     <tu>
@@ -317,6 +357,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>— Creideann na staraithe gur chum cinnirí na Manatayach an scéal ar fad.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241013T203026Z" creationid="starkat" creationdate="20241006T044129Z">
+        <seg>The historians believe that the leaders of the Manataya created the story completely.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>— In ainneoin an dul chun cinn a rinneadh ó thaobh teicneolaíochta agus eolaíochta de, bhí roinnt nósanna barbartha á gcleachtadh i ríocht na Manatayach go dtí deireadh a sibhialtachta.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T042706Z" creationid="starkat" creationdate="20241004T030949Z">
@@ -377,6 +425,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T030456Z" creationid="starkat" creationdate="20241004T030456Z">
         <seg>— Alright, said Aodh O'Táilliúir. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>— Tá go maith, tá mé cinnte go bhfuil muid uilig buíoch do Thomás as an stair spéisiúil sin a insint dúinn.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241013T205132Z" creationid="starkat" creationdate="20241013T205103Z">
+        <seg>Alright, I am sure that all of us are thankful for Tomas for that interesting history that he told to us.</seg>
       </tuv>
     </tu>
     <tu>
