@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>An sarcófagas</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T185422Z" creationid="starkat" creationdate="20241014T185422Z">
+        <seg>The sarcophagus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>An taispeántas</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241004T045902Z" creationid="starkat" creationdate="20241003T203503Z">
@@ -114,6 +122,22 @@
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241005T230310Z" creationid="starkat" creationdate="20241005T230310Z">
         <seg>Paul and Aodh were nervous while they were going between these terriifying figures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>Bhí ainmhithe de chineál éigin ina luí ag cosa na deilbhe, nathair nimhe, iaguar agus éan a raibh cuma fheargach air.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T190810Z" creationid="starkat" creationdate="20241014T190810Z">
+        <seg>Animals of all kinds were lying at the foot of the statue, a poisonous snake, a jaguar and an angry-looking bird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>Bhí an mháistreás ina seasamh os comhair na cónra móire de chloch dhorcha a bhí ina luí ar sheastán ard.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T190251Z" creationid="starkat" creationdate="20241014T190251Z">
+        <seg>The teacher was sitting in front of a large coffin of dark stone that was lying on a high stand.</seg>
       </tuv>
     </tu>
     <tu>
@@ -228,6 +252,15 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
     </tu>
     <tu>
+      <note>aistigh [isteach]</note>
+      <tuv xml:lang="ga">
+        <seg>Cabidil a dó.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T185344Z">
+        <seg>Chapter two.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv xml:lang="ga">
         <seg>Caibidil a haon: An taispeántas</seg>
       </tuv>
@@ -273,6 +306,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T174803Z" creationid="starkat" creationdate="20241014T174803Z">
         <seg>Good kick, good score!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>Cruth duine a bhí ar an gcónra, bhí súile agus béal cam agus garbh air, agus bhí a lámha fillte ar a bholg.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T190543Z" creationid="starkat" creationdate="20241014T190543Z">
+        <seg>The coffin was shaped like a person, with crooked and rough eyes and mouth, and its hands were folded on its stomach.</seg>
       </tuv>
     </tu>
     <tu>
@@ -445,6 +486,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>a d'fhiafraigh Bean Uí Ruiséil.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T185455Z" creationid="starkat" creationdate="20241014T185455Z">
+        <seg>asked Mrs. O'Russell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>a d'fhiafraigh Pól.</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T173011Z" creationid="starkat" creationdate="20241014T173011Z">
@@ -497,6 +546,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T174729Z" creationid="starkat" creationdate="20241014T174729Z">
         <seg>— One to zero, Aodh!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>— An bhfuil duine ar bith in ann a rá liom céard é sin?</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T185447Z" creationid="starkat" creationdate="20241014T185447Z">
+        <seg>— Is anyone able to tell me what that is?</seg>
       </tuv>
     </tu>
     <tu>
