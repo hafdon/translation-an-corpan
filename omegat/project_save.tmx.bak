@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Ach tá mé cinnte gur féidir le Tomás níos mó a insint dúinn faoi.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241014T191651Z" creationid="starkat" creationdate="20241014T191651Z">
+        <seg>But I'm sure that Tomas can tell us more about it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Ag breathnú ar na rudaí iontacha seo atá mé.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T173334Z" creationid="starkat" creationdate="20241014T173334Z">
@@ -126,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Bhí ainmhithe de chineál éigin ina luí ag cosa na deilbhe, nathair nimhe, iaguar agus éan a raibh cuma fheargach air.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241014T190810Z" creationid="starkat" creationdate="20241014T190810Z">
+        <seg>Animals of all kinds were lying at the foot of the statue, a poisonous snake, a jaguar and an angry-looking bird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Bhí an mháistreás ina seasamh os comhair na cónra móire de chloch dhorcha a bhí ina luí ar sheastán ard.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T190251Z" creationid="starkat" creationdate="20241014T190251Z">
@@ -161,6 +177,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241003T233009Z" creationid="starkat" creationdate="20241003T232151Z">
         <seg>An ugly mask made from a skull was on the face of the person that had a knife in his hand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Bhí na draoithe agus na hasarlaithe iontach tábhachtach, agus, de ghnáth, ba iad na draoithe a bhíodh ag lorg eolais, tríd an eolaíocht agus an réasúnaíocht, faoin domhan.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241014T194951Z" creationid="starkat" creationdate="20241014T194951Z">
+        <seg>The magicians and the sorcerers were extremely important, and, usually, the druids sought knowledge, through science and reasoning, about the world.</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,6 +294,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Chas Tomás i dtreo an tsarcófagais.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241014T195008Z" creationid="starkat" creationdate="20241014T195008Z">
+        <seg>Tomas turned towards the sarcophagus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Chas sé.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241013T214404Z" creationid="starkat" creationdate="20241013T214404Z">
@@ -298,6 +330,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T174803Z" creationid="starkat" creationdate="20241014T174803Z">
         <seg>Good kick, good score!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Cruth duine a bhí ar an gcónra, bhí súile agus béal cam agus garbh air, agus bhí a lámha fillte ar a bholg.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241014T190543Z" creationid="starkat" creationdate="20241014T190543Z">
+        <seg>The coffin was shaped like a person, with crooked and rough eyes and mouth, and its hands were folded on its stomach.</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,6 +446,30 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Sa deireadh, d'ardaigh duine amháin a lámh.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241014T191253Z" creationid="starkat" creationdate="20241014T191253Z">
+        <seg>In the back, one person raised their hand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Sea, sin sarcófagas, mar a dhéanadh na hÉigiptigh dá gcuid ríthe agus banríonta marbha.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241014T191630Z" creationid="starkat" creationdate="20241014T191630Z">
+        <seg>Yes, it's a sarcophagus, as the Egyptians used to make for their dead kings and queens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Sheas an rang, a mbéal ar leathadh, os comhair an iarsma aistigh.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241014T191158Z" creationid="starkat" creationdate="20241014T191158Z">
+        <seg>The class stood, their mouths spread, in front of the weird relic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Shín sé a lámh amach os comhair Aodha.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T174658Z" creationid="starkat" creationdate="20241014T174630Z">
@@ -458,6 +522,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241005T230536Z" creationid="starkat" creationdate="20241005T230536Z">
         <seg>Paul noticed that a young member of the exhibit group, who had long dark hair, combed back on his head, speaking in a lively manner to the class. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Tháinig Tomás chun tosaigh.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241014T191714Z" creationid="starkat" creationdate="20241014T191714Z">
+        <seg>Thomas came to the front.</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,6 +622,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>— An-mhaith, a Mhéimí.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241014T191442Z" creationid="starkat" creationdate="20241014T191442Z">
+        <seg>— Very good, Meimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>— Bheifeá dainséarach dá mbeadh smeadar céille agat, a Mháirtín, agus sin í an fhírinne!</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T174609Z" creationid="starkat" creationdate="20241014T174511Z">
@@ -586,6 +666,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241013T203026Z" creationid="starkat" creationdate="20241006T044129Z">
         <seg>The historians believe that the leaders of the Manataya created the story completely.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>— Cé go ndearna na Manatayaigh nithe iontacha a fhionnachtain sa mhata agus san eolaíocht na mílte bliain romhainne anseo san Eoraip, chreid siad go láidir fós i sprideanna, i ndraíocht, i bhfantaisíocht agus sna diabhail, agus bhí déithe uafásacha acu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241014T194642Z" creationid="starkat" creationdate="20241014T194642Z">
+        <seg>— Although the Manataya made wonderful discoveries in mathematics and in the sciences thousands of years before us here in Europe, they still strongly believed in spirits, in magic, in fantasy and in demons, and they had terrifying gods.</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +738,22 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241013T223809Z" creationid="starkat" creationdate="20241013T223809Z">
         <seg>Is something wrong, Paul?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>— Sarcófagas, a mháistreás.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241014T191436Z" creationid="starkat" creationdate="20241014T191436Z">
+        <seg>— A sarcophagus, ma'am.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>— Sea, a Mhéimí?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241014T191422Z" creationid="starkat" creationdate="20241014T191422Z">
+        <seg>— Yes, Meimi?</seg>
       </tuv>
     </tu>
     <tu>

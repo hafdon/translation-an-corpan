@@ -10,21 +10,21 @@ translationKey: "chapter02"
 
 The teacher was sitting in front of a large coffin of dark stone that was lying on a high stand. The coffin was shaped like a person, with crooked and rough eyes and mouth, and its hands were folded on its stomach. Animals of all kinds were lying at the foot of the statue, a poisonous snake, a jaguar and an angry-looking bird.
 
-Sheas an rang, a mbéal ar leathadh, os comhair an iarsma aistigh. Sa deireadh, d'ardaigh duine amháin a lámh.
+The class stood, their mouths spread, in front of the weird relic. In the back, one person raised their hand.
 
-— Sea, a Mhéimí?
+— Yes, Meimi?
 
-— Sarcófagas, a mháistreás.
+— A sarcophagus, ma'am.
 
-— An-mhaith, a Mhéimí. Sea, sin sarcófagas, mar a dhéanadh na hÉigiptigh dá gcuid ríthe agus banríonta marbha. Ach tá mé cinnte gur féidir le Tomás níos mó a insint dúinn faoi.
+— Very good, Meimi. Yes, it's a sarcophagus, as the Egyptians used to make for their dead kings and queens. But I'm sure that Tomas can tell us more about it.
 
-Tháinig Tomás chun tosaigh.
+Thomas came to the front.
 
-— Cé go ndearna na Manatayaigh nithe iontacha a fhionnachtain sa mhata agus san eolaíocht na mílte bliain romhainne anseo san Eoraip, chreid siad go láidir fós i sprideanna, i ndraíocht, i bhfantaisíocht agus sna diabhail, agus bhí déithe uafásacha acu. Bhí na draoithe agus na hasarlaithe iontach tábhachtach, agus, de ghnáth, ba iad na draoithe a bhíodh ag lorg eolais, tríd an eolaíocht agus an réasúnaíocht, faoin domhan.
+— Although the Manataya made wonderful discoveries in mathematics and in the sciences thousands of years before us here in Europe, they still strongly believed in spirits, in magic, in fantasy and in demons, and they had terrifying gods. The magicians and the sorcerers were extremely important, and, usually, the druids sought knowledge, through science and reasoning, about the world.
 
-Chas Tomás i dtreo an tsarcófagais.
+Tomas turned towards the sarcophagus.
 
-— Ach bhíodh cuid de na draoithe ag déanamh staidéir ar rudaí eile, ar eolaíocht rúnda: aiséirí na marbh, úsáid a bhaint as sprideanna agus deamhain mar shearbhóntaí agus iarrachtaí chun bealach a aimsiú le cruth ainmhithe a chur orthu féin.
+— But some druids studied other things, secret knowledge: rising from the dead, making use of spirits and demons as servants and an attempt to find a way to give themselves animal traits.
 
 Chas sé i dtreo an ranga go tobann, a shúile ar lasadh.
 
