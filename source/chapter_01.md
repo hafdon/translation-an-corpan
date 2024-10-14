@@ -26,11 +26,9 @@ Tharraing Pól a mhéara go mall trína ghruaig dhorcha chatach, agus é ag léa
 
 Rinne an bheirt acu gáire agus bhog siad ar aghaidh. Bhí dea-aoibh ar an rang ar fad agus iad ag caitheamh an lae in Iarsmalann na Cathrach ag breathnú ar an taispeántas mór nua, «Ríocht Rúnda na Manatayach».
 
-[See translation notes at bottom. - Zach]
-
 Bhí cur síos ar an taispeántas sna nuachtáin, ar an raidió agus ar an teilifís, agus labhair go leor staraithe go díograiseach faoi.
 
-Bhí Daithí Fitswalter, an seandálaí clúiteach, tar éis teacht ar iarsmaí cathrach, cathair iontach mór agus í ceilte i bhforaois thiubh ar an leithinis idir deisceart Mheicsiceo agus tuaisceart Ghuatamala. Faoi shibhialtacht na Manatayach a bhí an chathair ar feadh breis agus trí mhíle bhain. Tar éis do Fitswalter an chathair iontach seo a aimsiú labhair go leor daoine faoi «athscríobh na staire». Ach is ar éigean a bheadh an Príomhoide ag cur fáilte roimh a leithéid agus an scoil tar éis carn airgid a chaitheamh ar leabhair nua staire don leabharlann.
+Bhí Daithí Fitswalter, an seandálaí clúiteach, tar éis teacht ar iarsmaí cathrach, cathair iontach mór agus í ceilte i bhforaois thiubh ar an leithinis idir deisceart Mheicsiceo agus tuaisceart Ghuatamala. Faoi shibhialtacht na Manatayach a bhí an chathair ar feadh breis agus trí mhíle bliain. Tar éis do Fitswalter an chathair iontach seo a aimsiú labhair go leor daoine faoi «athscríobh na staire». Ach is ar éigean a bheadh an Príomhoide ag cur fáilte roimh a leithéid agus an scoil tar éis carn airgid a chaitheamh ar leabhair nua staire don leabharlann.
 
 Tháinig an bheirt bhuachaillí suas leis an gcuid eile den rang. Bhí snoíodóireacht aisteach de dhaoine agus de chloigne ainmhithe sa chéad seomra eile. Bhí Pól agus Aodh neirbhíseach agus iad ag siúl idir na dealbha uafara seo. Thug Pól faoi deara go raibh ball óg d'fhoireann an taispeántais, a raibh gruaig fhada dhorcha air, agus í cíortha siar ar a chloigeann, ag caint go bríomhar leis an rang. Bhreathnaigh Pól ar an bhfógra geal a bhí ar a T-léine: Is mise Tomás. Cuir ceist orm!
 
@@ -63,10 +61,3 @@ Shín sé a lámh amach os comhair Aodha. Bhuail Aodh buille uirthi lena lámh f
 — A haon a náid, a Aodh! Cic breá, scór breá! arsa Pól agus gáire mór ar a bhéal, sular chas sé le siúl ar aghaidh go dtí an chéad rannóg eile sa taispeántas.
 
 Ní fhaca an bheirt an fhearg a tháinig ar aghaidh Mháirtín agus é ag breathnú orthu ar a mbealach amach.
-
-===
-Translation notes, since the beta dictionary gets these incorrect:
-
-- leathdhuine-leathiaguar = half-man, half-jaguar
-- leathdhuine-leathanacanda = half-man, half-anaconda
-- pearóid-duine = parrot-man

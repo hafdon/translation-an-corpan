@@ -269,6 +269,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Cic breá, scór breá!</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241014T174803Z" creationid="starkat" creationdate="20241014T174803Z">
+        <seg>Good kick, good score!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Cuir ceist orm!</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241005T230818Z" creationid="starkat" creationdate="20241005T230818Z">
@@ -337,6 +345,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241013T205321Z" creationid="starkat" creationdate="20241013T205321Z">
         <seg>Don't put a hand on anything.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Ní fhaca an bheirt an fhearg a tháinig ar aghaidh Mháirtín agus é ag breathnú orthu ar a mbealach amach.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241014T175038Z" creationid="starkat" creationdate="20241014T175038Z">
+        <seg>The two of them didn't see the anger that came over Martin's face while he watched them on the way out.</seg>
       </tuv>
     </tu>
     <tu>
@@ -465,6 +481,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T043306Z" creationid="starkat" creationdate="20241004T043306Z">
         <seg>said Aodh again while he put stress on himsef. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>arsa Pól agus gáire mór ar a bhéal, sular chas sé le siúl ar aghaidh go dtí an chéad rannóg eile sa taispeántas.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241014T174958Z" creationid="starkat" creationdate="20241014T174936Z">
+        <seg>said Paul with a big smile on his face, before he turned to walk forward to the next room in the exhibit.</seg>
       </tuv>
     </tu>
     <tu>

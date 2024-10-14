@@ -26,11 +26,9 @@ Paul drew his fingers through his long dark curly hair while he read the plaque 
 
 The two of them laughed and they went forward. The whole class had a cheerful demeanor as they spent the day in the City Museum looking at the big new exhibit, «The Secret Kingdom of the Manataya».
 
-[See translation notes at bottom. - Zach]
-
 The exhibit was described in the news, on the radio and on the television, and a lot of historians spoke about it.
 
-Daithí Fitswalter, the famous archaeologist, after finding remains of a city, a large amazing city hidden in a thick forest on the peninsula between the southern part of Mexico and the northern part of Guatemala. The city was under the civilization of the Manataya for more than three thousand years. After finding this wondrous city, Fitswalter spoke to a lot of people about rewriting its history. But the Principal would hardly welcome the like while the school was after spending a pile of money on new history books for the library.
+Daithí Fitswalter, the famous archaeologist, after finding remains of a city, a large amazing city hidden in a thick forest on the peninsula between the southern part of Mexico and the northern part of Guatemala. Faoi shibhialtacht na Manatayach a bhí an chathair ar feadh breis agus trí mhíle bliain. After finding this wondrous city, Fitswalter spoke to a lot of people about rewriting its history. But the Principal would hardly welcome the like while the school was after spending a pile of money on new history books for the library.
 
 The two boys came up to the rest of the class. A strange carving of people and  of animal heads was in the next room. Paul and Aodh were nervous while they were going between these terriifying figures. Paul noticed that a young member of the exhibit group, who had long dark hair, combed back on his head, speaking in a lively manner to the class.  Paul looked at the white sticker that was on his T-shirt: I'm Thomas.  Ask me a question.
 
@@ -62,11 +60,4 @@ He stretched his hand out in front of Aodh. Aodh smacked it with his own hand.
 
 — One to zero, Aodh! Good kick, good score! said Paul with a big smile on his face, before he turned to walk forward to the next room in the exhibit.
 
-The two of them didn't see the anger that came over Martin's face while he watched them on the way out.
-
-===
-Translation notes, since the beta dictionary gets these incorrect:
-
-- leathdhuine-leathiaguar = half-man, half-jaguar
-- leathdhuine-leathanacanda = half-man, half-anaconda
-- pearóid-duine = parrot-man
+The two of them didn't see the anger that came over Martin's face while he watched them on the way o

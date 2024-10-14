@@ -301,14 +301,6 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
-        <seg>Faoi shibhialtacht na Manatayach a bhí an chathair ar feadh breis agus trí mhíle bhain.</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241005T224350Z" creationid="starkat" creationdate="20241005T224350Z">
-        <seg>The city was under the civilization of the Manataya for more than three thousand years.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ga">
         <seg>Is cosúil go mbíodh na hUaisle seo ag úsáid an scéil chun nach mbeadh a fhios ag an bpobal gur ag cur daoine nár aontaigh leo chun báis a bhíodh siad i ndáiríre.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241013T204154Z" creationid="starkat" creationdate="20241013T204154Z">
@@ -351,8 +343,8 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       <tuv lang="ga">
         <seg>Ní fhaca an bheirt an fhearg a tháinig ar aghaidh Mháirtín agus é ag breathnú orthu ar a mbealach amach.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241014T175038Z" creationid="starkat" creationdate="20241014T175038Z">
-        <seg>The two of them didn't see the anger that came over Martin's face while he watched them on the way out.</seg>
+      <tuv lang="en-US" changeid="starkat" changedate="20241014T175233Z" creationid="starkat" creationdate="20241014T175038Z">
+        <seg>The two of them didn't see the anger that came over Martin's face while he watched them on the way o</seg>
       </tuv>
     </tu>
     <tu>
