@@ -60,4 +60,4 @@ He stretched his hand out in front of Aodh. Aodh smacked it with his own hand.
 
 — One to zero, Aodh! Good kick, good score! said Paul with a big smile on his face, before he turned to walk forward to the next room in the exhibit.
 
-The two of them didn't see the anger that came over Martin's face while he watched them on the way o
+The two of them didn't see the anger that came over Martin's face while he watched them on the way out.
