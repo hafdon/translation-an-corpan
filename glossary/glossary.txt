@@ -1,3 +1,5 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
 pearóid-duine	parrot-man
 leathdhuine-leathanacanda	half-man, half-anaconda
+i gcogar	in a whisper
+ar tí	(i) on the track of, in pursuit of, (ii) on the point of, about to.

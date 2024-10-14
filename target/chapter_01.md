@@ -42,27 +42,27 @@ Some of the class started laughing, but the angry grimace on the face of Mrs. Ru
 
 Mrs. O'Russell moved forward.
 
-Alright, I am sure that all of us are thankful for Tomas for that interesting history that he told to us. We will go forward to the main room of the exhibit now. Don't put a hand on anything. Má fheicimse duine ar bith ag láimhseáil rud ar bith, beidh an duine sin ag dul os comhair an Phríomhoide maidin amárach. An dtuigeann sibh é sin?
+Alright, I am sure that all of us are thankful for Tomas for that interesting history that he told to us. We will go forward to the main room of the exhibit now. Don't put a hand on anything. If I see anyone handling anything, that person will be going to the Principal tomorrow morning. Do you all understand that?
 
-— Tuigimid, arsa an rang ar fad le chéile.
+We understand, said the entire class together.
 
-— Meas tú arbh fhearr dúinn cead a lorg anáil a tharraingt chomh maithe? arsa Pól i gcogar le hAodh le linn don rang a bheith ag gluaiseacht go mall go dtí an chéad rannóg eile san iarsmalann. Bhí sé ar tí rud éigin eile a rá nuair a mhothaigh sé buille ar a dhroim. Chas sé. Bhí spreasán de bhuachaill taobh thiar de agus é ag feadaíl go neamhurchóideach, mar dhea.
+Do you think would be better for us to seek permission to draw breath as well? said Paul in a whisper to Aodh while the class was moving slowly to the next room in the museum.  He/it was about to say something else when he felt a blow on his back. He turned. A worthles twig of a boy was behind him, whistling innocently, supposedly!
 
-— Rud éigin cearr, a Phóil? a d'fhiafraigh sé go tarcaisneach, agus cuma ghlas ar a aghaidh faoi shoilse an taispeántais. Lig Pól osna. Ní raibh amhras ar bith air ach gurbh é Máirtín Ó hÉibhín, an phian sa tóin ba mhó sa rang, a bhí tar éis buille a bhualadh air. Ba chrá croí do gach duine é Máirtín agus ní raibh aon dul as sin!
+Is something wrong, Paul? he asked contemptuously, and his face looking green under the light of the exhibit. Paul let out a sigh. There was no doubt but that it was Martin O'Eibhin, the biggest pain in the ass in the class, that had just hit him. Martin was a torment to everyone and there was no getting away from it!
 
-— Céard atá uait anois, a Mháirtín? a d'fhiafraigh Pól. — Tuirseach den taispeántas? Tar éis do dhóthain a fháil agus ag iarraidh dul abhaile?
+— What do you want now, Martin? asked Paul. — Tired of the exhibit? Gotten your fill and want to go home?
 
-D'ardaigh Máirtín a ghuaillí go drámatúil agus thochais sé a chloigeann.
+Martin raised his shoulders dramatically and scratched his head.
 
-— Níl tuairim agam céard faoi a bhfuil tú ag caint. Ag breathnú ar na rudaí iontacha seo atá mé. Chas Máirtín chun an chuma a chur ar an scéal gur ag déanamh staidéir ar an taispeántas a bhí sé – cé nach raibh os a chomhair ach gléas múchta tine a bhí crochta ar an mballa!
+— I don't know what you're talking about. I'm looking at these wonderful things. Martin to give credence to his story, like he was studying the exhibit - although there wasn't anything in front of him on the wall but a fire extinguisher hanging there.
 
-— Bheifeá dainséarach dá mbeadh smeadar céille agat, a Mháirtín, agus sin í an fhírinne! a d'fhreagair Pól.
+— You would be if you would have an ounce of sense, Martin, and that's the truth!  responded Paul
 
-Shín sé a lámh amach os comhair Aodha. Bhuail Aodh buille uirthi lena lámh féin.
+He stretched his hand out in front of Aodh. Aodh smacked it with his own hand.
 
-— A haon a náid, a Aodh! Cic breá, scór breá! arsa Pól agus gáire mór ar a bhéal, sular chas sé le siúl ar aghaidh go dtí an chéad rannóg eile sa taispeántas.
+— One to zero, Aodh! Good kick, good score! said Paul with a big smile on his face, before he turned to walk forward to the next room in the exhibit.
 
-Ní fhaca an bheirt an fhearg a tháinig ar aghaidh Mháirtín agus é ag breathnú orthu ar a mbealach amach.
+The two of them didn't see the anger that came over Martin's face while he watched them on the way out.
 
 ===
 Translation notes, since the beta dictionary gets these incorrect:

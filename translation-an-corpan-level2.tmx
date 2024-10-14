@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>Ag breathnú ar na rudaí iontacha seo atá mé.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T173334Z" creationid="starkat" creationdate="20241014T173334Z">
+        <seg>I'm looking at these wonderful things.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>Agus an screadach sin … iuch!</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241004T030720Z" creationid="starkat" creationdate="20241004T030720Z">
@@ -30,10 +38,26 @@
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>An dtuigeann sibh é sin?</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241013T205937Z" creationid="starkat" creationdate="20241013T205937Z">
+        <seg>Do you all understand that?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>An taispeántas</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241004T045902Z" creationid="starkat" creationdate="20241003T203503Z">
         <seg>The exhibit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>Ba chrá croí do gach duine é Máirtín agus ní raibh aon dul as sin!</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T173000Z" creationid="starkat" creationdate="20241014T173000Z">
+        <seg>Martin was a torment to everyone and there was no getting away from it!</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,6 +90,14 @@
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241003T233655Z" creationid="starkat" creationdate="20241003T233655Z">
         <seg>She looked over her large glasses at the two young boys that were still looking at the terrifying sight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>Bhuail Aodh buille uirthi lena lámh féin.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T174719Z" creationid="starkat" creationdate="20241014T174655Z">
+        <seg>Aodh smacked it with his own hand.</seg>
       </tuv>
     </tu>
     <tu>
@@ -157,6 +189,22 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>Bhí spreasán de bhuachaill taobh thiar de agus é ag feadaíl go neamhurchóideach, mar dhea.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241013T223739Z" creationid="starkat" creationdate="20241013T223739Z">
+        <seg>A worthles twig of a boy was behind him, whistling innocently, supposedly!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>Bhí sé ar tí rud éigin eile a rá nuair a mhothaigh sé buille ar a dhroim.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241013T214358Z" creationid="starkat" creationdate="20241013T214232Z">
+        <seg>He/it was about to say something else when he felt a blow on his back.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>Bhí sé de nós acu buachaillí óga a íobairt, mar shampla.</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241005T224752Z" creationid="starkat" creationdate="20241004T042743Z">
@@ -189,6 +237,22 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>Chas Máirtín chun an chuma a chur ar an scéal gur ag déanamh staidéir ar an taispeántas a bhí sé – cé nach raibh os a chomhair ach gléas múchta tine a bhí crochta ar an mballa!</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T174009Z" creationid="starkat" creationdate="20241014T174009Z">
+        <seg>Martin to give credence to his story, like he was studying the exhibit - although there wasn't anything in front of him on the wall but a fire extinguisher hanging there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>Chas sé.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241013T214404Z" creationid="starkat" creationdate="20241013T214404Z">
+        <seg>He turned.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>Chiúnaigh an rang go tobann.</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241005T232110Z" creationid="starkat" creationdate="20241005T232110Z">
@@ -201,6 +265,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241004T042945Z" creationid="starkat" creationdate="20241004T042945Z">
         <seg>The Manataya believed that young people's blood appeased the anger of the gods.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>Cic breá, scór breá!</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T174803Z" creationid="starkat" creationdate="20241014T174803Z">
+        <seg>Good kick, good score!</seg>
       </tuv>
     </tu>
     <tu>
@@ -221,6 +293,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>D'ardaigh Máirtín a ghuaillí go drámatúil agus thochais sé a chloigeann.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T173218Z" creationid="starkat" creationdate="20241014T173218Z">
+        <seg>Martin raised his shoulders dramatically and scratched his head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>Faoi shibhialtacht na Manatayach a bhí an chathair ar feadh breis agus trí mhíle bhain.</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241005T224350Z" creationid="starkat" creationdate="20241005T224350Z">
@@ -237,10 +317,26 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>Lig Pól osna.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241013T224106Z" creationid="starkat" creationdate="20241013T224106Z">
+        <seg>Paul let out a sigh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>Léigh sé an scríbhinn a bhí ar an bplaic os ard.</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241004T030946Z" creationid="starkat" creationdate="20241004T030946Z">
         <seg>He read the writing that was on the plaque aloud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>Má fheicimse duine ar bith ag láimhseáil rud ar bith, beidh an duine sin ag dul os comhair an Phríomhoide maidin amárach.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241013T205918Z" creationid="starkat" creationdate="20241013T205918Z">
+        <seg>If I see anyone handling anything, that person will be going to the Principal tomorrow morning.</seg>
       </tuv>
     </tu>
     <tu>
@@ -253,6 +349,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>Ní fhaca an bheirt an fhearg a tháinig ar aghaidh Mháirtín agus é ag breathnú orthu ar a mbealach amach.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T175038Z" creationid="starkat" creationdate="20241014T175038Z">
+        <seg>The two of them didn't see the anger that came over Martin's face while he watched them on the way out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>Ní fhéadfadh sí bogadh mar bhí a lámha ceangailte den leac mhór ar a raibh sí ina luí.</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241003T231348Z" creationid="starkat" creationdate="20241003T231348Z">
@@ -261,10 +365,26 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>Ní raibh amhras ar bith air ach gurbh é Máirtín Ó hÉibhín, an phian sa tóin ba mhó sa rang, a bhí tar éis buille a bhualadh air.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T172725Z" creationid="starkat" creationdate="20241014T172725Z">
+        <seg>There was no doubt but that it was Martin O'Eibhin, the biggest pain in the ass in the class, that had just hit him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>Rinne an bheirt acu gáire agus bhog siad ar aghaidh.</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241004T045041Z" creationid="starkat" creationdate="20241004T045041Z">
         <seg>The two of them laughed and they went forward.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>Shín sé a lámh amach os comhair Aodha.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T174658Z" creationid="starkat" creationdate="20241014T174630Z">
+        <seg>He stretched his hand out in front of Aodh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -281,6 +401,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241005T224730Z" creationid="starkat" creationdate="20241005T224730Z">
         <seg>After finding this wondrous city, Fitswalter spoke to a lot of people about rewriting its history.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>Tar éis do dhóthain a fháil agus ag iarraidh dul abhaile?</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T173102Z" creationid="starkat" creationdate="20241014T173102Z">
+        <seg>Gotten your fill and want to go home?</seg>
       </tuv>
     </tu>
     <tu>
@@ -325,10 +453,66 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>a d'fhiafraigh Pól.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T173011Z" creationid="starkat" creationdate="20241014T173011Z">
+        <seg>asked Paul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>a d'fhiafraigh sé go tarcaisneach, agus cuma ghlas ar a aghaidh faoi shoilse an taispeántais.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241013T224101Z" creationid="starkat" creationdate="20241013T224101Z">
+        <seg>he asked contemptuously, and his face looking green under the light of the exhibit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>a d'fhreagair Pól.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T174551Z" creationid="starkat" creationdate="20241014T174551Z">
+        <seg>responded Paul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>arsa Aodh arís agus é ag cur strainceanna air féin.</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241004T043306Z" creationid="starkat" creationdate="20241004T043306Z">
         <seg>said Aodh again while he put stress on himsef. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>arsa Pól agus gáire mór ar a bhéal, sular chas sé le siúl ar aghaidh go dtí an chéad rannóg eile sa taispeántas.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T174958Z" creationid="starkat" creationdate="20241014T174936Z">
+        <seg>said Paul with a big smile on his face, before he turned to walk forward to the next room in the exhibit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>arsa Pól i gcogar le hAodh le linn don rang a bheith ag gluaiseacht go mall go dtí an chéad rannóg eile san iarsmalann.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241013T211631Z" creationid="starkat" creationdate="20241013T211631Z">
+        <seg>said Paul in a whisper to Aodh while the class was moving slowly to the next room in the museum. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>— A haon a náid, a Aodh!</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T174729Z" creationid="starkat" creationdate="20241014T174729Z">
+        <seg>— One to zero, Aodh!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>— Bheifeá dainséarach dá mbeadh smeadar céille agat, a Mháirtín, agus sin í an fhírinne!</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T174609Z" creationid="starkat" creationdate="20241014T174511Z">
+        <seg>— You would be if you would have an ounce of sense, Martin, and that's the truth! </seg>
       </tuv>
     </tu>
     <tu>
@@ -365,6 +549,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>— Céard atá uait anois, a Mháirtín?</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T173251Z" creationid="starkat" creationdate="20241014T173008Z">
+        <seg>— What do you want now, Martin?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>— In ainneoin an dul chun cinn a rinneadh ó thaobh teicneolaíochta agus eolaíochta de, bhí roinnt nósanna barbartha á gcleachtadh i ríocht na Manatayach go dtí deireadh a sibhialtachta.</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241004T042706Z" creationid="starkat" creationdate="20241004T030949Z">
@@ -381,6 +573,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>— Meas tú arbh fhearr dúinn cead a lorg anáil a tharraingt chomh maithe?</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241013T211824Z" creationid="starkat" creationdate="20241013T211824Z">
+        <seg>Do you think would be better for us to seek permission to draw breath as well?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>— Nach iontach an chuma atá orthu?</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241004T030646Z" creationid="starkat" creationdate="20241004T030646Z">
@@ -393,6 +593,22 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241005T231549Z" creationid="starkat" creationdate="20241005T231549Z">
         <seg>— The parrot wasn't nice or funny, said Thomas while he pulled on his small beard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>— Níl tuairim agam céard faoi a bhfuil tú ag caint.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T173244Z" creationid="starkat" creationdate="20241014T173244Z">
+        <seg>— I don't know what you're talking about.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>— Rud éigin cearr, a Phóil?</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241013T223809Z" creationid="starkat" creationdate="20241013T223809Z">
+        <seg>Is something wrong, Paul?</seg>
       </tuv>
     </tu>
     <tu>
@@ -417,6 +633,22 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241004T045004Z" creationid="starkat" creationdate="20241004T045004Z">
         <seg>— After the last game, that's what they should do with the manager and the full forward, said Paul, while pointing a finger towards the diorama. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>— Tuigimid, arsa an rang ar fad le chéile.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241013T211138Z" creationid="starkat" creationdate="20241013T211138Z">
+        <seg>We understand, said the entire class together.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>— Tuirseach den taispeántas?</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T173255Z" creationid="starkat" creationdate="20241014T173029Z">
+        <seg>— Tired of the exhibit?</seg>
       </tuv>
     </tu>
     <tu>
