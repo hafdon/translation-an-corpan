@@ -6,13 +6,13 @@ translationKey: "chapter03"
 
 # Chapter three. The cave
 
-Darkness fell immediately but Paul had closed his eyes anyway. He listened, but he couldn't hear any sound. Where was everyone? Dá n-osclódh sé a shúile bheadh a fhios aige, ach bhí sé róscanraithe lena leithéid a dhéanamh. Bhí sé fós in ann na súile fuara dorcha sin a fheiceáil, súile a stán gan trua air. Bhí sé ar nós tromluí nach bhféadfadh sé dearmad a dhéanamh air.
+Darkness fell immediately but Paul had closed his eyes anyway. He listened, but he couldn't hear any sound. Where was everyone? If he were to open his eyes he would know, but he was too scared to do the like. He was still able to see those cold dark eyes, eyes that stared at him without pity. It was like a nightmare that he wasn't able to forget.
 
 Tic tic tic.
 
-Fuaim faoi dheireadh. D'éist sé go cúramach. Rud éigin crua ag bualadh i gcoinne carraige. Agus ansin – fuaim uisce ag rith, i bhfad, i bhfad ar shiúl. Agus boladh aisteach éigin, rud éigin géar ag dó. Mhothaigh Pól deora ag cruinniú ina shúile. Céard a bhí ann? Bheadh air a shúile a oscailt, ach ní ligfeadh an eagla dó é sin a dhéanamh. Chonaic sé pictiúr soiléir de shúile fuara an chorpáin ina aigne . . .
+A sound at last. He listened carefully. Something hard hitting against the rocks. And then - a sound of running water, far, far away. And some weird smell, something sharp burning. Paul felt tears gathering in his eyes. What was there? He had to open his eyes, but the fear wouldn't let him do that. He saw a clear picture of the fold eyes of the corpse in his mind. . .
 
-Sa deireadh thiar thall, thug sé faoina shúile a oscailt. Baineadh an anáil de nuair a chonaic sé na rudaí a bhí mórthimpeall air. Ní raibh an iarsmalann ann, ná a chomhscoláirí! Cén áit a raibh Bean Uí Ruiséil, Tomás agus an taispeántas? Agus Aodh?
+In the  Baineadh an anáil de nuair a chonaic sé na rudaí a bhí mórthimpeall air. Ní raibh an iarsmalann ann, ná a chomhscoláirí! Cén áit a raibh Bean Uí Ruiséil, Tomás agus an taispeántas? Agus Aodh?
 
 Bhí Pól ina sheasamh i bpluais mhór a bhí na céadta méadar ar fhad. Bhí an tsíleáil íseal, ní raibh sí ach méadar os a chionn. Bhí tóirsí ollmhóra ag dó ar na ballaí agus bhí scáileanna á gcaitheamh acu ar fud na háite, ar an urlár agus ar an tsíleáil. Léim spréacha as na bladhmanna ó am go chéile agus scaipeadh na scáileanna, rud a chuir cuma níos scanrúla fós orthu. Chúlaigh sé nuair a tháinig ceann de na scáileanna cóngarach dó. Ba chosúil í le hainmhí beo a bheadh ag síneadh i dtreo a chos. Lig Pól scread bheag as agus lig sé amach an anáil a bhí coinnithe istigh aige. Rinne sé iarracht a anáil a tharraingt arís. Ansin, go tobann, mhothaigh sé rud éigin ag gluaiseacht ina threo, taobh thiar de. Chas sé ar a bhonn agus chonaic sé carraig ollmhór sa bhalla crua a bhí níos lú ná orlach óna aghaidh. Sheas sé siar. Le fuaim mhall gharbh, lean an charraig é. Ghlac Pól céim eile siar. Theann an charraig thiubh isteach leis.
 
