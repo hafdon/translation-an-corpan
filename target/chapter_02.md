@@ -26,19 +26,19 @@ Tomas turned towards the sarcophagus.
 
 — But some druids studied other things, secret knowledge: rising from the dead, making use of spirits and demons as servants and an attempt to find a way to give themselves animal traits.
 
-Chas sé i dtreo an ranga go tobann, a shúile ar lasadh.
+He turned towards the class suddenly,
 
-— Agus bhí draoi amháin a bhí ag iarraidh iad ar fad a shárú. Bhí sé ag iarraidh maireachtáil go brách. Xatlacan ab ainm dó.
+— And there was one magician that wanted to thwart them all. He wanted to live forever. His name was Xatlacan.
 
-Satlacan an tslí a d'fhuaimnigh sé an t-ainm, agus chuala siad macallaí, Satlacan, Satlacan, Satlacan, ag éalú tríd an seomra ollmhór.
+He pronouned it "Satlacan", and they heard echoes, "Satlacan, Satlacan, Satlacan," rising through the huge room.
 
-— Deirtear go mbíodh sé ag déanamh íobairte de na céadta fear agus ban d'fhonn a gcuid fola a úsáid mar chógas speisialta leis an mbeatha shíoraí a aimsiú dó féin.
+It's said that he was making sacrifices of hundreds of men and women, wanting to use their blood as special medicine to acquire eternal life for himself.
 
-Bhí an rang ag éisteacht go cúramach le Tomás anois. Bhí fuaim an chaiséid a bhí mar chúlra do radharc na híobartha le cloisteáil sa chiúnas. D'éirigh Pól neirbhíseach agus é ag éisteacht leis an screadach agus é ag smaoineamh ar na daoine a mharaigh Xatlacan. Ansin, thug sé cluas do Thomás arís.
+The class was listening carefully to Tomas now. The sound of the cassette was background to the scene of the sacrifice, could be heard in the silence. Paul became nervous, listening to the screaming, while thinking about people that Xatlacan killed.   Then, he gave an ear to Tomas again.
 
-—I ndeireadh na dála ní raibh muintir na cathrach in ann cur suas leis an drochíde seo níos mó – a gcuid mac agus iníonacha ag imeacht gan tásc gan tuairisc isteach i ndorchadas phálás Xatlacan, macallaí na screadaí a bhí le cloisteáil taobh thiar de na ballaí arda, na soilse aisteacha a chonaic siad ag glioscarnach trí na fuinneoga. Shocraigh siad go n-ionsóidís an pálás.
+— When all was said and done, the people of the city were not able to put up with this abuse anymore - their sons and daughters disappearing out without any report into the darkness of the palace of Xatlacan, the echoes of the screams that were to be heard on the other side of the high walls, the strange lights that they saw flickering through the windows. They decided that they would attack the palace.
 
-—Creideann na staraithe gur bhailigh níos mó ná seacht gcéad duine os comhair na ngeataí oíche amháin. Bhrúigh siad ar oscailt iad agus isteach leo trí dhorchlaí na háite. Mharaigh saighdiúirí Xatlacan cuid acu, ach bhí an iomarca daoine ann agus chaith siad na saighdiúirí ar leataobh. Bhí an draoi i bponc agus níorbh fhada go raibh sé teanntaithe acu.
+— The historians belief that more than seven hundred people gathered in front of the gates one night. Bhrúigh siad ar oscailt iad agus isteach leo trí dhorchlaí na háite. Mharaigh saighdiúirí Xatlacan cuid acu, ach bhí an iomarca daoine ann agus chaith siad na saighdiúirí ar leataobh. Bhí an draoi i bponc agus níorbh fhada go raibh sé teanntaithe acu.
 
 D'ísligh Tomás a ghuth. Bhí an téip uafásach le cloisteáil gan stad sa chúlra. Bhog duine nó beirt den rang go míshuaimhneach.
 
