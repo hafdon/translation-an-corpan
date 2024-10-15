@@ -1,11 +1,11 @@
-10/14/24, 6:01 PM
+10/14/24, 9:35 PM
 Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
 Total:           	     232	 3062	                  13960	                 16866	     4	
-Remaining:       	      49	  587	                   2670	                  3234	     2	
+Remaining:       	      13	  128	                    580	                   701	     2	
 Unique:          	     186	 2488	                  11421	                 13785	     3	
-Unique Remaining:	      44	  587	                   2665	                  3229	     2	
+Unique Remaining:	       8	  128	                    575	                   696	     2	
 
 
 Individual File Statistics:
@@ -14,4 +14,4 @@ File Name                    	Total Segments	Remaining Segments	Unique Segments	
 chapter_01.md                	            84	                 1	             84	                        1	       1169	             15	        1169	                    15	                         5337	                               74	                          5337	                                      74	                        6446	                              88	                         6446	                                     88	
 001.txt                      	            11	                 0	              2	                        0	        160	              0	          11	                     0	                          705	                                0	                            72	                                       0	                         854	                               0	                           81	                                      0	
 chapter_01_the_exhibition.txt	            32	                 0	              0	                        0	        425	              0	           0	                     0	                         1901	                                0	                             0	                                       0	                        2303	                               0	                            0	                                      0	
-chapter_02.md                	           105	                48	            100	                       43	       1308	            572	        1308	                   572	                         6017	                             2596	                          6012	                                    2591	                        7263	                            3146	                         7258	                                   3141	
+chapter_02.md                	           105	                12	            100	                        7	       1308	            113	        1308	                   113	                         6017	                              506	                          6012	                                     501	                        7263	                             613	                         7258	                                    608	

@@ -56,43 +56,43 @@ Think about it, being locked in a coffin while you were alive. — Ah! I don't t
 
 Me neither, said Paul.
 
-— Paul O'Griofa and Aodh O'Tailliuir! The voice of Mrs. O'Russell broke in on them. — 
+— Paul O'Griofa and Aodh O'Tailliuir! The voice of Mrs. O'Russell broke in on them. — Do you two intend to tell the secret to the rest of us?
 
-Dhearg an bheirt nuair a thug siad faoi deara go raibh gach uile dhuine ag breathnú orthu.
+The two of them blushed when they noticed that everyone else was looking at them.
 
-— Tá brón orainn, a Bhean Uí Ruiséil, arsa an bheirt acu trína bhfiacla.
+— We're sorry, Mrs. Russell, said the two of them through their teeth.
 
-— Ceart go leor, ach bígí béasach fad a bhíonn Tomás ag caint, arsa Bean Uí Ruiséil.
+— Good enough, but be polite while Tomas is talking, said Mrs. O'Russell.
 
-Nuair a bhí Tomás cinnte nach raibh an mháistreás ag breathnú air chuir sé straois air féin, rud a chuir an rang ar fad ag gáire. Tháinig cuma chantalach go maith ar Bhean Uí Ruiséil nuair a chuala sí an gáire céanna.
+When Tomas was sure that the teacher wasn't looking at him, he made a face, which made the whole class laugh.  Tháinig cuma chantalach go maith ar Bhean Uí Ruiséil nuair a chuala sí an gáire céanna.
 
-D'athraigh Tomás a phort ar an bpointe agus ba é an t-oifigeach gairmiúil iarsmalainne arís é.
+Tomas changed his tune immediately and he was the official museum guide again.
 
-— Beidh an sarcófagas á oscailt oíche amárach os comhair cheamaraí an domhain mhóir, ar sé. — Beidh Daithí Fitzwalter i mbun an tsearmanais agus tá ráfla ann go mbeidh an tUachtarán ann chomh maith. Ná déanaigí dearmad. Bígí ag breathnú ar an teilifís oíche amárach – agus ná leagaigí lámh ar rud ar bith, le bhur dtoil. Anois, má tá ceist ag duine ar bith agaibh bailígí timpeall orm anseo.
+— The sarcophagus will be opened tomorrow night in front of the cameras of the whole world, he said. Daithi Fitzwalter will be in charge of the ceremony and there is a rumor that the President will be there as well. Don't forget. Watch the television tomorrow night - and don't lay your hand on anything, please. Now, if anyone has a question, gather around me here.
 
-Sheas cuid de na scoláirí thart ar Thomás agus rinne Bean Uí Ruiséil iarracht eagar a chur ar an sruth ceisteanna. D'fhan cuid eile díobh ag an sarcófagas agus iad ag stánadh air faoi mar a bheidís ag súil go bhfeicfidís an corp tríd an gcarraig thiubh.
+Some students stood around Tomas and Mrs. O'Russell tried to give order to the flow of questions. Some others stayed at the sarcophagus, staring at it as if they were expecting to see the body through the thick stone.
 
-— An gcreideann tú go bhfuil sé fós istigh ann, a d'fhiafraigh Aodh.
+— Do you believe that it's still in there, asked Aodh?
 
-— Creidim, is dóigh, ach is féidir gur ghoid duine éigin an corp, a d'fhreagair Pól go smaointeach. — Faoi mar a tharla san Éigipt, tá a fhios agat . . . daoine ag goid stuif ó na pirimidí.
+I do, I suppose, but it's possible that someone stole the body, Paul answered thoughfully. Like what happened in Egypt, you know. . . people stealing stuff from the pyramids.
 
-— B'fhéidir go bhféadfaimis a fháil amach, arsa guth eile. Máirtín a bhí ann, agus bhog sé níos cóngaraí don rópa a bhí idir iad agus an sarcófagas ollmhór. — Is dóigh liomsa gur cleas é an t-iomlán. Tá na staraithe seo tar éis an t-iomlán a chumadh.
+— Maybe we can get it out, said another voice. It was Martin, and he moved nearer to the rope that was between them and the large sarcophagus. — I think the whole thing is a trick. These historians have invented the whole thing.
 
-Chroith Pól a chloigeann.
+Paul shook his head.
 
-— Sea, a Mháirtín, agus Steven Spielberg a chum na dineasáir, tá mé cinnte. Ná bí chomh hamaideach sin!
+— Yeah, Martin, and Steven Spielberg invented the dinosaurs, I'm sure. Don't be so stupid!
 
-— Níl gach rud ar eolas agatsa, arsa Máirtín go nimhneach agus é ag brú i gcoinne na cónra. Chuimil sé a mhéara ar an gcarraig gharbh.
+— You don't know anything, Martin said threateningly while he pushed against the coffin. He rubbed his finger on the rough stone.
 
-— A Mháirtín, a phleidhce, d'fhéadfadh an rud titim anuas ort! arsa Aodh go neirbhíseach.
+— Martin, you idiot, the thing could fall down on you! said Aodh nervously.
 
-Thosaigh Máirtín ag méirínteacht ar shnoíodóireacht bheag d'éan fíochmhar a bhí taobh le cosa na deilbhe daonna. — Pearóid í sin, is dócha, dar le Pól. Bhreathnaigh sé sa treo ina raibh Bean Uí Ruiséil agus Tomás ach bhí an bheirt acu róghnóthach ag caint leis an gcuid eile den rang le Máirtín agus a chuid pleidhcíochta a thabhairt faoi deara.
+Martin started fiddling with a small carving of a fierce bird that was on the side of the leg of the human statue. — That's a parrot, probably, said Paul. He looked in the direction of Mrs. O'Russell and Tomas but the two were too busy talking to the rest of the class to notice Margin and his tomfoolery.
 
-— Éirigh as, a Mháirtín, arsa Pól.
+— Quit it, Martin, said Paul.
 
-— Nó céard? a d'fhiafraigh Máirtín thar a ghualainn, é níos nimhní fós.
+— Or what? asked Martin over his shoulder, more spitefully still.
 
-— Ná déan gleo ar bith . . . titfidh an t-iomlán . . .
+— Don't make a ruckus. . . the whole thing will fall . .
 
 Fágadh ina staic é nuair a chuala sé clic ag teacht ón áit a raibh an chónra. D'oscail barr cloiche na cónra in aon ghluaiseacht mhín amháin mar a bheadh doras ann agus bhrúigh sé Máirtín ar leataobh. Léim Aodh le lámh chúnta a thabhairt do Mháirtín agus fágadh Pól ag breathnú trí scamall deannaigh na céadta bliain d'aois a séideadh amach ó lár an tsarcófagais.
 
