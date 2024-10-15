@@ -38,15 +38,15 @@ The class was listening carefully to Tomas now. The sound of the cassette was ba
 
 — When all was said and done, the people of the city were not able to put up with this abuse anymore - their sons and daughters disappearing out without any report into the darkness of the palace of Xatlacan, the echoes of the screams that were to be heard on the other side of the high walls, the strange lights that they saw flickering through the windows. They decided that they would attack the palace.
 
-— The historians belief that more than seven hundred people gathered in front of the gates one night. Bhrúigh siad ar oscailt iad agus isteach leo trí dhorchlaí na háite. Mharaigh saighdiúirí Xatlacan cuid acu, ach bhí an iomarca daoine ann agus chaith siad na saighdiúirí ar leataobh. Bhí an draoi i bponc agus níorbh fhada go raibh sé teanntaithe acu.
+— The historians belief that more than seven hundred people gathered in front of the gates one night. They pushed them open and went in through the corridors of the place. Xatlacan's soldiers killed some of them, but there were a ton of people there and they threw the soldiers aside. The magician was in trouble and it wasn't long until they had him cornered.
 
-D'ísligh Tomás a ghuth. Bhí an téip uafásach le cloisteáil gan stad sa chúlra. Bhog duine nó beirt den rang go míshuaimhneach.
+Tomas lowered his voice. The awful tape could be heard without cease in the background. One or two people of the class moved restlessly.
 
-— Bhí cónra mhór mhillteach sa seomra céanna – an sarcófagas seo. Bhí a oiread eagla ar an bpobal roimh an draoi seo go raibh faitíos orthu é a mharú. Rug siad greim air agus bhrúigh siad isteach sa sarcófagas é. Bhí Xatlacan sa chónra chéanna a bhí le beatha shíoraí a chur ar fáil dó. Agus sin í an áit inar fhan sé go dtí gur aimsigh Daithí Fitzwalter é.
+The large awful coffin was in the same room - this sarcophagus. The people were so scared of this magician such they feared to kill him. They grabbed him and pushed him into the sarcophagus. Xatlacan was in the same coffin that was supposed to give him eternal live.  And that is the place in which he waited until Daithí Fitzwalter found him.
 
-Bhreathnaigh Pól ar Aodh. Bhí Aodh ina sheasamh gan focal as, agus é ag stánadh roimhe. Chuaigh Pól anonn chuige.
+Paul looked at Aodh. Aodh was standing without a word, staring in front of him. Paul went to the over side.
 
-— Hé, a Aodh, tá sé cosúil le «Tomb Raider», nach bhfuil?
+Hey, Aodh, it's like _Tomb Raider_, isn't it?
 
 Baineadh geit as Aodh mar a bheadh splanc leictreachais tar éis é a bhualadh.
 

@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Agus sin í an áit inar fhan sé go dtí gur aimsigh Daithí Fitzwalter é.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T004950Z" creationid="starkat" creationdate="20241015T004943Z">
+        <seg>And that is the place in which he waited until Daithí Fitzwalter found him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>An dtuigeann sibh é sin?</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241013T205937Z" creationid="starkat" creationdate="20241013T205937Z">
@@ -102,6 +110,22 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Bhog duine nó beirt den rang go míshuaimhneach.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T004231Z" creationid="starkat" creationdate="20241015T004231Z">
+        <seg>One or two people of the class moved restlessly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Bhreathnaigh Pól ar Aodh.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T004957Z" creationid="starkat" creationdate="20241015T004957Z">
+        <seg>Paul looked at Aodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Bhreathnaigh Pól ar an bhfógra geal a bhí ar a T-léine: Is mise Tomás.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241005T230716Z" creationid="starkat" creationdate="20241005T230716Z">
@@ -118,10 +142,26 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Bhrúigh siad ar oscailt iad agus isteach leo trí dhorchlaí na háite.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T003308Z" creationid="starkat" creationdate="20241015T003308Z">
+        <seg>They pushed them open and went in through the corridors of the place.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Bhuail Aodh buille uirthi lena lámh féin.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T174719Z" creationid="starkat" creationdate="20241014T174655Z">
         <seg>Aodh smacked it with his own hand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Bhí Aodh ina sheasamh gan focal as, agus é ag stánadh roimhe.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T005045Z" creationid="starkat" creationdate="20241015T005045Z">
+        <seg>Aodh was standing without a word, staring in front of him.</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,10 +182,34 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Bhí Xatlacan sa chónra chéanna a bhí le beatha shíoraí a chur ar fáil dó.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T004853Z" creationid="starkat" creationdate="20241015T004853Z">
+        <seg>Xatlacan was in the same coffin that was supposed to give him eternal live. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Bhí a oiread eagla ar an bpobal roimh an draoi seo go raibh faitíos orthu é a mharú.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T004654Z" creationid="starkat" creationdate="20241015T004654Z">
+        <seg>The people were so scared of this magician such they feared to kill him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Bhí ainmhithe de chineál éigin ina luí ag cosa na deilbhe, nathair nimhe, iaguar agus éan a raibh cuma fheargach air.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T190810Z" creationid="starkat" creationdate="20241014T190810Z">
         <seg>Animals of all kinds were lying at the foot of the statue, a poisonous snake, a jaguar and an angry-looking bird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Bhí an draoi i bponc agus níorbh fhada go raibh sé teanntaithe acu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T003821Z" creationid="starkat" creationdate="20241015T003821Z">
+        <seg>The magician was in trouble and it wasn't long until they had him cornered.</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +226,14 @@
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T234054Z" creationid="starkat" creationdate="20241014T234054Z">
         <seg>The class was listening carefully to Tomas now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Bhí an téip uafásach le cloisteáil gan stad sa chúlra.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T004046Z" creationid="starkat" creationdate="20241015T004046Z">
+        <seg>The awful tape could be heard without cease in the background.</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,6 +438,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Chuaigh Pól anonn chuige.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T005250Z" creationid="starkat" creationdate="20241015T005250Z">
+        <seg>Paul went to the over side.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Cic breá, scór breá!</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T174803Z" creationid="starkat" creationdate="20241014T174803Z">
@@ -414,6 +494,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>D'ísligh Tomás a ghuth.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T003901Z" creationid="starkat" creationdate="20241015T003901Z">
+        <seg>Tomas lowered his voice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Faoi shibhialtacht na Manatayach a bhí an chathair ar feadh breis agus trí mhíle bhain.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241005T224350Z" creationid="starkat" creationdate="20241005T224350Z">
@@ -442,6 +530,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T030946Z" creationid="starkat" creationdate="20241004T030946Z">
         <seg>He read the writing that was on the plaque aloud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Mharaigh saighdiúirí Xatlacan cuid acu, ach bhí an iomarca daoine ann agus chaith siad na saighdiúirí ar leataobh.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T003553Z" creationid="starkat" creationdate="20241015T003553Z">
+        <seg>Xatlacan's soldiers killed some of them, but there were a ton of people there and they threw the soldiers aside.</seg>
       </tuv>
     </tu>
     <tu>
@@ -490,6 +586,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T045041Z" creationid="starkat" creationdate="20241004T045041Z">
         <seg>The two of them laughed and they went forward.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Rug siad greim air agus bhrúigh siad isteach sa sarcófagas é.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T004721Z" creationid="starkat" creationdate="20241015T004721Z">
+        <seg>They grabbed him and pushed him into the sarcophagus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -726,6 +830,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>— Bhí cónra mhór mhillteach sa seomra céanna – an sarcófagas seo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T004451Z" creationid="starkat" creationdate="20241015T004309Z">
+        <seg>The large awful coffin was in the same room - this sarcophagus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>— Bhíodh na Manatayaigh ag adhradh déithe éagsúla, arsa Tomás, — agus ba mheascán de dhaoine agus d'ainmhithe cuid de na déithe sin, leathdhuine-leathiaguar, leathdhuine-leathanacanda nó an pearóid-duine.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241005T231229Z" creationid="starkat" creationdate="20241005T231229Z">
@@ -778,6 +890,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T234029Z" creationid="starkat" creationdate="20241014T234029Z">
         <seg>It's said that he was making sacrifices of hundreds of men and women, wanting to use their blood as special medicine to acquire eternal life for himself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>— Hé, a Aodh, tá sé cosúil le «Tomb Raider», nach bhfuil?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T005322Z" creationid="starkat" creationdate="20241015T005322Z">
+        <seg>Hey, Aodh, it's like _Tomb Raider_, isn't it?</seg>
       </tuv>
     </tu>
     <tu>
