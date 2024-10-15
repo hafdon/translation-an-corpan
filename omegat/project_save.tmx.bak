@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Bhreathnaigh sé sa treo ina raibh Bean Uí Ruiséil agus Tomás ach bhí an bheirt acu róghnóthach ag caint leis an gcuid eile den rang le Máirtín agus a chuid pleidhcíochta a thabhairt faoi deara.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T043225Z" creationid="starkat" creationdate="20241015T043225Z">
+        <seg>He looked in the direction of Mrs. O'Russell and Tomas but the two were too busy talking to the rest of the class to notice Margin and his tomfoolery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Bhreathnaigh sí thar a spéaclaí móra ar an mbeirt bhuachaillí óga a bhí fós ag breathnú ar an radharc scanrúil.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241003T233655Z" creationid="starkat" creationdate="20241003T233655Z">
@@ -258,6 +266,22 @@
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241015T004046Z" creationid="starkat" creationdate="20241015T004046Z">
         <seg>The awful tape could be heard without cease in the background.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Bhí corp seanduine ann, é clúdaithe le héadach bán.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T044547Z" creationid="starkat" creationdate="20241015T044547Z">
+        <seg>There was an old body there, covered in a white cloth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Bhí craiceann a aghaidhe chomh teann le páipéar i gcaoi is go gceapfá nach raibh sé tar éis a bheith sa chónra ach le cúpla lá.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T050049Z" creationid="starkat" creationdate="20241015T050049Z">
+        <seg>The skin of its face was as tight as paper, such that you would think he hadn't been in the coffin but a few days. </seg>
       </tuv>
     </tu>
     <tu>
@@ -550,6 +574,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>D'oscail barr cloiche na cónra in aon ghluaiseacht mhín amháin mar a bheadh doras ann agus bhrúigh sé Máirtín ar leataobh.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T044603Z" creationid="starkat" creationdate="20241015T044216Z">
+        <seg>The top of the coffin opened in one smooth movement like it was a door and it pushed Martin to the side.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>D'éirigh Pól neirbhíseach agus é ag éisteacht leis an screadach agus é ag smaoineamh ar na daoine a mharaigh Xatlacan.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T234846Z" creationid="starkat" creationdate="20241014T234846Z">
@@ -582,6 +614,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Fágadh ina staic é nuair a chuala sé clic ag teacht ón áit a raibh an chónra.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T043956Z" creationid="starkat" creationdate="20241015T043956Z">
+        <seg>He was rooted to the spot when he heard a click coming from some place on the coffin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Is cosúil go mbíodh na hUaisle seo ag úsáid an scéil chun nach mbeadh a fhios ag an bpobal gur ag cur daoine nár aontaigh leo chun báis a bhíodh siad i ndáiríre.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241013T204154Z" creationid="starkat" creationdate="20241013T204154Z">
@@ -610,6 +650,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T030946Z" creationid="starkat" creationdate="20241004T030946Z">
         <seg>He read the writing that was on the plaque aloud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Léim Aodh le lámh chúnta a thabhairt do Mháirtín agus fágadh Pól ag breathnú trí scamall deannaigh na céadta bliain d'aois a séideadh amach ó lár an tsarcófagais.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T044431Z" creationid="starkat" creationdate="20241015T044431Z">
+        <seg>Aodh lept to give a helping hand to Martin and Paul was left looking through a cloud of dust hundreds of years old that blew out from the center of the sarcophagus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -894,6 +942,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>a d'fhiafraigh Máirtín thar a ghualainn, é níos nimhní fós.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T043400Z" creationid="starkat" creationdate="20241015T043400Z">
+        <seg>asked Martin over his shoulder, more spitefully still.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>a d'fhiafraigh Pól.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T173011Z" creationid="starkat" creationdate="20241014T173011Z">
@@ -954,6 +1010,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241015T041638Z" creationid="starkat" creationdate="20241015T041638Z">
         <seg>people stealing stuff from the pyramids.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>titfidh an t-iomlán .</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T043519Z" creationid="starkat" creationdate="20241015T043519Z">
+        <seg>the whole thing will fall</seg>
       </tuv>
     </tu>
     <tu>
@@ -1206,6 +1270,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>— Ná déan gleo ar bith .</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T043500Z" creationid="starkat" creationdate="20241015T043431Z">
+        <seg>— Don't make a ruckus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>— Ná liomsa, arsa Pól.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241015T010029Z" creationid="starkat" creationdate="20241015T010029Z">
@@ -1224,8 +1296,8 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       <tuv lang="ga">
         <seg>— Níl gach rud ar eolas agatsa, arsa Máirtín go nimhneach agus é ag brú i gcoinne na cónra.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241015T042221Z" creationid="starkat" creationdate="20241015T042111Z">
-        <seg>You don't know anything, Martin said threateningly while he pushed against the coffin.</seg>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T043316Z" creationid="starkat" creationdate="20241015T042111Z">
+        <seg>— You don't know anything, Martin said threateningly while he pushed against the coffin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1238,10 +1310,18 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>— Nó céard?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T043301Z" creationid="starkat" creationdate="20241015T043301Z">
+        <seg>— Or what?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>— Pearóid í sin, is dócha, dar le Pól.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241015T042855Z" creationid="starkat" creationdate="20241015T042855Z">
-        <seg>That's a parrot, probably, said Paul.</seg>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T043309Z" creationid="starkat" creationdate="20241015T042855Z">
+        <seg>— That's a parrot, probably, said Paul.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1346,6 +1426,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241013T205132Z" creationid="starkat" creationdate="20241013T205103Z">
         <seg>Alright, I am sure that all of us are thankful for Tomas for that interesting history that he told to us.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>— Éirigh as, a Mháirtín, arsa Pól.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T043304Z" creationid="starkat" creationdate="20241015T043255Z">
+        <seg>— Quit it, Martin, said Paul.</seg>
       </tuv>
     </tu>
     <tu>

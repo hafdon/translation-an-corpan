@@ -270,6 +270,22 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Bhí corp seanduine ann, é clúdaithe le héadach bán.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T044547Z" creationid="starkat" creationdate="20241015T044547Z">
+        <seg>There was an old body there, covered in a white cloth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Bhí craiceann a aghaidhe chomh teann le páipéar i gcaoi is go gceapfá nach raibh sé tar éis a bheith sa chónra ach le cúpla lá.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T050049Z" creationid="starkat" creationdate="20241015T050049Z">
+        <seg>The skin of its face was as tight as paper, such that you would think he hadn't been in the coffin but a few days. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Bhí cur síos ar an taispeántas sna nuachtáin, ar an raidió agus ar an teilifís, agus labhair go leor staraithe go díograiseach faoi.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T050202Z" creationid="starkat" creationdate="20241004T050202Z">
@@ -558,6 +574,22 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>D'oscail an marbhán a shúile agus bhreathnaigh sé, go fuar, ar Phól.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T050235Z" creationid="starkat" creationdate="20241015T050235Z">
+        <seg>The corpse opened its eyes and looked, coldly, at Paul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>D'oscail barr cloiche na cónra in aon ghluaiseacht mhín amháin mar a bheadh doras ann agus bhrúigh sé Máirtín ar leataobh.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T044603Z" creationid="starkat" creationdate="20241015T044216Z">
+        <seg>The top of the coffin opened in one smooth movement like it was a door and it pushed Martin to the side.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>D'éirigh Pól neirbhíseach agus é ag éisteacht leis an screadach agus é ag smaoineamh ar na daoine a mharaigh Xatlacan.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T234846Z" creationid="starkat" creationdate="20241014T234846Z">
@@ -590,6 +622,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Fágadh ina staic é nuair a chuala sé clic ag teacht ón áit a raibh an chónra.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T043956Z" creationid="starkat" creationdate="20241015T043956Z">
+        <seg>He was rooted to the spot when he heard a click coming from some place on the coffin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Is cosúil go mbíodh na hUaisle seo ag úsáid an scéil chun nach mbeadh a fhios ag an bpobal gur ag cur daoine nár aontaigh leo chun báis a bhíodh siad i ndáiríre.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241013T204154Z" creationid="starkat" creationdate="20241013T204154Z">
@@ -618,6 +658,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T030946Z" creationid="starkat" creationdate="20241004T030946Z">
         <seg>He read the writing that was on the plaque aloud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Léim Aodh le lámh chúnta a thabhairt do Mháirtín agus fágadh Pól ag breathnú trí scamall deannaigh na céadta bliain d'aois a séideadh amach ó lár an tsarcófagais.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T044431Z" creationid="starkat" creationdate="20241015T044431Z">
+        <seg>Aodh lept to give a helping hand to Martin and Paul was left looking through a cloud of dust hundreds of years old that blew out from the center of the sarcophagus.</seg>
       </tuv>
     </tu>
     <tu>

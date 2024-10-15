@@ -94,8 +94,8 @@ Martin started fiddling with a small carving of a fierce bird that was on the si
 
 — Don't make a ruckus. . . the whole thing will fall . .
 
-Fágadh ina staic é nuair a chuala sé clic ag teacht ón áit a raibh an chónra. D'oscail barr cloiche na cónra in aon ghluaiseacht mhín amháin mar a bheadh doras ann agus bhrúigh sé Máirtín ar leataobh. Léim Aodh le lámh chúnta a thabhairt do Mháirtín agus fágadh Pól ag breathnú trí scamall deannaigh na céadta bliain d'aois a séideadh amach ó lár an tsarcófagais.
+He was rooted to the spot when he heard a click coming from some place on the coffin. The top of the coffin opened in one smooth movement like it was a door and it pushed Martin to the side. Aodh lept to give a helping hand to Martin and Paul was left looking through a cloud of dust hundreds of years old that blew out from the center of the sarcophagus.
 
-Bhí corp seanduine ann, é clúdaithe le héadach bán. Bhí craiceann a aghaidhe chomh teann le páipéar i gcaoi is go gceapfá nach raibh sé tar éis a bheith sa chónra ach le cúpla lá.
+There was an old body there, covered in a white cloth. The skin of its face was as tight as paper, such that you would think he hadn't been in the coffin but a few days.
 
-D'oscail an marbhán a shúile agus bhreathnaigh sé, go fuar, ar Phól.
+The corpse opened its eyes and looked, coldly, at Paul.
