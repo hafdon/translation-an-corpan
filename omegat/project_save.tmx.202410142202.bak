@@ -62,14 +62,6 @@
     </tu>
     <tu>
       <tuv lang="ga">
-        <seg>An phluais</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241015T052154Z" creationid="starkat" creationdate="20241015T052154Z">
-        <seg>The cave</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ga">
         <seg>An sarcófagas</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T185422Z" creationid="starkat" creationdate="20241014T185422Z">
@@ -442,14 +434,6 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T185344Z">
         <seg>Chapter two.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ga">
-        <seg>Cabidil a trí.</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241015T052144Z" creationid="starkat" creationdate="20241015T051424Z">
-        <seg>Chapter three.</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,14 +866,6 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T030855Z" creationid="starkat" creationdate="20241004T030855Z">
         <seg>Paul drew his fingers through his long dark curly hair while he read the plaque that was in front of the diorama.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ga">
-        <seg>Thit dorchadas ar an bpointe ach bhí Pól tar éis a shúile a dhúnadh ar aon nós.</seg>
-      </tuv>
-      <tuv lang="en-US" changeid="starkat" changedate="20241015T052307Z" creationid="starkat" creationdate="20241015T052307Z">
-        <seg>Darkness fell immediately but Paul had closed his eyes anyway.</seg>
       </tuv>
     </tu>
     <tu>
