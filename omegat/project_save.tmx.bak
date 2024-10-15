@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Baineadh geit as Aodh mar a bheadh splanc leictreachais tar éis é a bhualadh.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T005651Z" creationid="starkat" creationdate="20241015T005651Z">
+        <seg>Aodh jumped as though an electrical spark had hit him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Bheadh fearg an domhain orm dá gcaillfinn cluiche de chuid Man.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T043557Z" creationid="starkat" creationdate="20241004T043557Z">
@@ -438,6 +446,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Chuaigh Pól anonn chuige.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T005250Z" creationid="starkat" creationdate="20241015T005250Z">
+        <seg>Paul went to the over side.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Cic breá, scór breá!</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T174803Z" creationid="starkat" creationdate="20241014T174803Z">
@@ -506,6 +522,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241013T204154Z" creationid="starkat" creationdate="20241013T204154Z">
         <seg>It seems that these nobles were using the story so that the public would not know that what they were really doing was putting people who didn't agree with them to death.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Iuch!</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T005829Z" creationid="starkat" creationdate="20241015T005829Z">
+        <seg>— Ah!</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,6 +686,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Tharraing Aodh a lámh thara chlár éadain go drámatúil.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T005727Z" creationid="starkat" creationdate="20241015T005727Z">
+        <seg>Aodh drew his hand across his forehead dramatically.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Tharraing Pól a mhéara go mall trína ghruaig dhorcha chatach, agus é ag léamh na plaice a bhí os comhair na mionsamhlacha.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T030855Z" creationid="starkat" creationdate="20241004T030855Z">
@@ -770,6 +802,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241013T211631Z" creationid="starkat" creationdate="20241013T211631Z">
         <seg>said Paul in a whisper to Aodh while the class was moving slowly to the next room in the museum. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>— A dhiabhail, a Phóil, scanraigh tú mé!</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T005713Z" creationid="starkat" creationdate="20241015T005713Z">
+        <seg>— God damnit, Paul, you scared me!</seg>
       </tuv>
     </tu>
     <tu>
@@ -886,6 +926,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>— Hé, a Aodh, tá sé cosúil le «Tomb Raider», nach bhfuil?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T005322Z" creationid="starkat" creationdate="20241015T005322Z">
+        <seg>Hey, Aodh, it's like _Tomb Raider_, isn't it?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>— In ainneoin an dul chun cinn a rinneadh ó thaobh teicneolaíochta agus eolaíochta de, bhí roinnt nósanna barbartha á gcleachtadh i ríocht na Manatayach go dtí deireadh a sibhialtachta.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T042706Z" creationid="starkat" creationdate="20241004T030949Z">
@@ -970,6 +1018,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T043443Z" creationid="starkat" creationdate="20241004T043436Z">
         <seg>— That is one way to make sure that I wouldn't watch the soccer match on Saturday night.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>— Smaoinigh air, a bheith faoi ghlas i gcónra, agus tú beo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241015T005827Z" creationid="starkat" creationdate="20241015T005827Z">
+        <seg>Think about it, being locked in a coffin while you were alive.</seg>
       </tuv>
     </tu>
     <tu>

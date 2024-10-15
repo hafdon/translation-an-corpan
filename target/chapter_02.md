@@ -48,15 +48,15 @@ Paul looked at Aodh. Aodh was standing without a word, staring in front of him. 
 
 Hey, Aodh, it's like _Tomb Raider_, isn't it?
 
-Baineadh geit as Aodh mar a bheadh splanc leictreachais tar éis é a bhualadh.
+Aodh jumped as though an electrical spark had hit him.
 
-— A dhiabhail, a Phóil, scanraigh tú mé! Tharraing Aodh a lámh thara chlár éadain go drámatúil.
+— God damnit, Paul, you scared me! Aodh drew his hand across his forehead dramatically.
 
-— Smaoinigh air, a bheith faoi ghlas i gcónra, agus tú beo. Iuch! Ní dóigh liom go dtaitneodh na Manatayaigh seo liom.
+Think about it, being locked in a coffin while you were alive. — Ah! I don't think that I would have liked the Manataya.
 
-— Ná liomsa, arsa Pól.
+Me neither, said Paul.
 
-— A Phóil Uí Ghríofa agus a Aodh Uí Tháilliúir! Bhris guth Bhean Uí Ruiséil isteach orthu. — An bhfuil sé i gceist ag an mbeirt agaibh an rúna scaoileadh leis an gcuid eile againn?
+— Paul O'Griofa and Aodh O'Tailliuir! The voice of Mrs. O'Russell broke in on them. — 
 
 Dhearg an bheirt nuair a thug siad faoi deara go raibh gach uile dhuine ag breathnú orthu.
 
