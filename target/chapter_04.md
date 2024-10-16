@@ -54,15 +54,15 @@ His parents smiles and stood up.
 
 — No, I'm great. I will see you tonight, sid Paul while falling asleep, and his eyes closed. He felt his mom kissing him on his forehead and then he heard the two of them walking out while they talked quietly together.
 
-D'fhan sé ar feadh nóiméid sular oscail sé a shúile arís. Bhí sé go hiontach a thuismitheoirí a fheiceáil, ach uaireanta . . . uaireanta d'fhéadfadh Mam dul thar fóir. B'fhada ó bhí sé ina pháiste ach . . . ba mhinic a rinne sí dearmad faoi sin ach a dtarlódh an rud is lú dó. Bhí sé deas, ag an am céanna, a fhios a bheith agat go raibh siad buartha fút agus go raibh siad ag tabhairt aire duit.
+He waited for a minute before he opened his eyes again. It was wonderful to see his parents, but sometimes . . . sometimes Mom could go too far. It was a long time since he was a child, but . . . often she forgot about that but the slightest thing would happen to him. It was nice, at the same time, to know that they were worried about you and that they were giving you attention.  
 
-D'éirigh sé aniar sa leaba agus bhreathnaigh sé timpeall air sa bharda. Ní raibh mórán daoine ann. Seacht leaba, cúig cinn acu folamh. Bhí buachaill óg sa dara ceann síos uaidh, a dhroim le Pól. Bhí a ghruaig rua le feiceáil ar an bpiliúr bán. Bhí Pól in ann píosa beag den chraiceann bán ar a mhuineál a fheiceáil.
+He rose forward in the bed and looked around him in the ward. There weren't many people. Seven beds, five of them empty. There was a young boy in the second one down from him, his back to Paul. His red hair could be seen on the white pillow. Paul was able to see a little bit of the white skin on his neck.
 
-Bhí sé cosúil le súil ag breathnú air. D'éirigh Pól neirbhíseach faoi agus bhreathnaigh sé uaidh síos i dtreo na leapa ina raibh duine eile. Ní raibh tada le feiceáil ansin mar go raibh scáthlán glas timpeall ar an leaba. Chuala sé fuaim, cineál d'osna, ag teacht ón taobh eile den scáthlán anois is arís.
+It was like an eye looking at him. Paul rose nervously and he looked from him down in the direction of the bed in which the other boy was. There was nothing to see there was a green screen around the bed. He heard a noise, a kind of sigh, coming from the other side of the curtain, now and again.
 
-Luigh Pól go míshuaimhneach faoi na héadaí. Thuig sé go raibh rudaí seachas an barda san ospidéal ag cur imní air. B'in í an fhadhb. Bhí a fhios aige, in ainneoin an méid a dúirt sé lena thuismitheoirí, céard a tharla ar maidin san iarsmalann.
+Paul lay down restlessly under the sheets. He understood that things other than the ward in the hospital were worrying him. B'in í an fhadhb. He knew, despite what he said to his parents, what had happened this morning in the museum.
 
-Ní fhéadfadh sé dearmad a dhéanamh ar na súile fuara a bhreathnaigh air ón sarcófagas. Luigh sé le ciall nach bhféadfadh sé a bheith fíor. Más Xatlacan a bhí sa sarcófagas, bhuel, caithfidh go raibh sé marbh, le trí mhíle bliain. Ach ní raibh amhras ar bith air faoin rud a chonaic sé lena shúile féin: beocht ag teacht i gcorpán. Agus na pluaiseanna uafásacha sin, agus Xatlacan ar an gcathaoir a bhí déanta as cloigne cnámharlach agus é ag athrú ina phearóid-duine gránna.
+He wouldn't be able to forget the cold eyes that looked at him from the sarcophagus. It stood to reason that it could not be the truth. If it was Xatlacan that was in the sarcophagus, well, he would have to be dead, for three thousand years. But he didn't have any doubt at all about what he saw with his own eyes: a corpse coming to life. And those awful caves, and Xatlacan on the chair that was made from skulls while he changed into an ugly parrot-man.
 
 Tháinig critheagla air agus dhún sé a shúile go teann agus é ag iarraidh dearmad a dhéanamh de na híomhánna uafásacha a bhí ina intinn. Rinne sé iarracht smaoineamh ar rudaí eile, ar chluichí ríomhaire, ar pheil, ar rud ar bith seachas an corpán agus an phluais. Bhí sé deas teolaí sa leaba agus thit sé ina chodladh.
 
