@@ -64,8 +64,8 @@ Paul lay down restlessly under the sheets. He understood that things other than 
 
 He wouldn't be able to forget the cold eyes that looked at him from the sarcophagus. It stood to reason that it could not be the truth. If it was Xatlacan that was in the sarcophagus, well, he would have to be dead, for three thousand years. But he didn't have any doubt at all about what he saw with his own eyes: a corpse coming to life. And those awful caves, and Xatlacan on the chair that was made from skulls while he changed into an ugly parrot-man.
 
-Tháinig critheagla air agus dhún sé a shúile go teann agus é ag iarraidh dearmad a dhéanamh de na híomhánna uafásacha a bhí ina intinn. Rinne sé iarracht smaoineamh ar rudaí eile, ar chluichí ríomhaire, ar pheil, ar rud ar bith seachas an corpán agus an phluais. Bhí sé deas teolaí sa leaba agus thit sé ina chodladh.
+A shaking fear came on him and he closed his eyes tightly while he tried to forget about the horrible image in his mind. He made an effort to think about something else, like computer games, or football, anything except the corpse and the cave. He was nice and comfy in the bed and he fell asleep.
 
-Ansin, tháinig tromluí air.
+Then, he had a nightmare.
 
-Teas. Bhí sé uafásach te. Bhí míshuaimhneas air. Bhí a chuid éadaigh oíche greamaithe dá dhroim agus taise na foraoise mórthimpeall air ag meascadh leis an allas.
+Heat. He was terribly hot. The air was agitated. Some of his night clothes attached in the back while the moisture of the forest around him mixed with the sweat.

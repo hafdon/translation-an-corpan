@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>Ansin, tháinig tromluí air.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241016T210359Z" creationid="starkat" creationdate="20241016T210359Z">
+        <seg>Then, he had a nightmare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>Ar chuala tú mé?</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241016T062916Z" creationid="starkat" creationdate="20241016T062916Z">
@@ -518,6 +526,14 @@
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>Bhí a chuid éadaigh oíche greamaithe dá dhroim agus taise na foraoise mórthimpeall air ag meascadh leis an allas.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241016T215741Z" creationid="starkat" creationdate="20241016T215741Z">
+        <seg>Some of his night clothes attached in the back while the moisture of the forest around him mixed with the sweat. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>Bhí a fhios aige, in ainneoin an méid a dúirt sé lena thuismitheoirí, céard a tharla ar maidin san iarsmalann.</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241016T185021Z" creationid="starkat" creationdate="20241016T185021Z">
@@ -693,6 +709,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>Bhí míshuaimhneas air.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241016T210420Z" creationid="starkat" creationdate="20241016T210420Z">
+        <seg>The air was agitated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>Bhí na draoithe agus na hasarlaithe iontach tábhachtach, agus, de ghnáth, ba iad na draoithe a bhíodh ag lorg eolais, tríd an eolaíocht agus an réasúnaíocht, faoin domhan.</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241014T194951Z" creationid="starkat" creationdate="20241014T194951Z">
@@ -805,6 +829,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>Bhí sé deas teolaí sa leaba agus thit sé ina chodladh.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241016T210352Z" creationid="starkat" creationdate="20241016T210352Z">
+        <seg>He was nice and comfy in the bed and he fell asleep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>Bhí sé deas, ag an am céanna, a fhios a bheith agat go raibh siad buartha fút agus go raibh siad ag tabhairt aire duit.</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241016T090222Z" creationid="starkat" creationdate="20241016T090222Z">
@@ -841,6 +873,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241015T212955Z" creationid="starkat" creationdate="20241015T212933Z">
         <seg>He was exhausted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>Bhí sé uafásach te.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241016T210408Z" creationid="starkat" creationdate="20241016T210408Z">
+        <seg>He was terribly hot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1758,6 +1798,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>Rinne sé iarracht smaoineamh ar rudaí eile, ar chluichí ríomhaire, ar pheil, ar rud ar bith seachas an corpán agus an phluais.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241016T210334Z" creationid="starkat" creationdate="20241016T210334Z">
+        <seg>He made an effort to think about something else, like computer games, or football, anything except the corpse and the cave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>Rinneadh crúba de lámha an draoi.</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241016T051035Z" creationid="starkat" creationdate="20241016T051035Z">
@@ -1926,6 +1974,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv xml:lang="ga">
+        <seg>Teas.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241016T210402Z" creationid="starkat" creationdate="20241016T210402Z">
+        <seg>Heat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
         <seg>Tharraing Aodh a lámh thara chlár éadain go drámatúil.</seg>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241015T005727Z" creationid="starkat" creationdate="20241015T005727Z">
@@ -2026,6 +2082,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv xml:lang="en-US" changeid="starkat" changedate="20241005T225201Z" creationid="starkat" creationdate="20241005T225201Z">
         <seg>The two boys came up to the rest of the class.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ga">
+        <seg>Tháinig critheagla air agus dhún sé a shúile go teann agus é ag iarraidh dearmad a dhéanamh de na híomhánna uafásacha a bhí ina intinn.</seg>
+      </tuv>
+      <tuv xml:lang="en-US" changeid="starkat" changedate="20241016T210248Z" creationid="starkat" creationdate="20241016T210248Z">
+        <seg>A shaking fear came on him and he closed his eyes tightly while he tried to forget about the horrible image in his mind.</seg>
       </tuv>
     </tu>
     <tu>
