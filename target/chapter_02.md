@@ -74,7 +74,7 @@ Some students stood around Tomas and Mrs. O'Russell tried to give order to the f
 
 — Do you believe that it's still in there, asked Aodh?
 
-I do, I suppose, but it's possible that someone stole the body, Paul answered thoughfully. Like what happened in Egypt, you know. .. .. people stealing stuff from the pyramids.
+I do, I suppose, but it's possible that someone stole the body, Paul answered thoughfully. Like what happened in Egypt, you know. . . people stealing stuff from the pyramids.
 
 — Maybe we can get it out, said another voice. It was Martin, and he moved nearer to the rope that was between them and the large sarcophagus. — I think the whole thing is a trick. These historians have invented the whole thing.
 
@@ -92,7 +92,7 @@ Martin started fiddling with a small carving of a fierce bird that was on the si
 
 — Or what? asked Martin over his shoulder, more spitefully still.
 
-— Don't make a ruckus. .. .. the whole thing will fall .. ..
+— Don't make a ruckus. . . the whole thing will fall . .
 
 He was rooted to the spot when he heard a click coming from some place on the coffin. The top of the coffin opened in one smooth movement like it was a door and it pushed Martin to the side. Aodh lept to give a helping hand to Martin and Paul was left looking through a cloud of dust hundreds of years old that blew out from the center of the sarcophagus.
 

@@ -3193,7 +3193,8 @@ maisigh	adorn	 decorate
 aor	satirize
 tuar	augur	 predict
 tuar	bleach
-caoch	[vt] [vi] 1. Blind; daze	 dazzle.
+caoch	[vt] [vi] 1. Blind; daze; dazzle.
+caoch ar _	wink at _
 éascaigh	[vt] [vi] 1. Make easy. 2. Hurry	 expedite. éascaigh leat	 hurry along. éascaigh	 éascaigh! Quick	 quick!
 seachaid	deliver
 lobh	decay
@@ -3792,4 +3793,953 @@ pionósaigh	vt. (1) to impose a penalty on someone; (2) to penalize	 punish some
 athchóirigh	vt. (1) to rearrange	 re-adjust; (2) to restore	 renovate; (3) to adapt; (4) to alter
 scáil	vt. (1) to cast a shadow; (2) to reflect; (3) to shine; (4) to tint
 galaigh	vaporize	 steam
-cothabháil	[† cothaigh] 1. feed	 nourish	 sustain. 2. stir up. 3. maintain	 hold fast
+cothabháil	[† cothaigh] 1. feed	 nourish	 sustain. 2. stir up. 3. maintain	 hold fastscanradh	fright
+is cosúil	it seems
+cearr	A. 1. Injury, wrong. 2. Mental derangement. B. Wrong
+tástálacha	tests
+éadrom	light; not heavy
+miongháire	Smile; soft chuckle.
+eile	a3. Other, another; next, more, else. 
+maith	good
+beag	small
+céad	first
+amháin	only
+ceart	right, correct
+alt	(1) alto (musical term)
+te	hot
+céanna	same
+nua	new
+óg	young
+leor	sufficient
+fada	long
+léir	clear
+ard	high, tall
+uile	all
+éigin	certain; some
+minic	frequent, often
+iomlán	complete, total
+cóir	Just, proper; decent, honest.
+díreach	1. Straight, direct
+lán	full
+náisiúnta	national
+éagsúil	different
+sásta	satisfied
+breá	fine, excellent
+áirithe	certain, particular
+áitiúil	local
+fíor	true
+gearr	1. short. 2. Near, close
+cosúil	similar, like
+saor	free
+luath	1. Quick, fast, speedy. 2. early, soon
+deas	nice
+fás	Waste, vacant, empty, void. S.a. FUIGHEALL1. 2. Wild, luxuriant.
+láidir	strong
+tábhachtach	important
+beo	alive
+dubh	black
+bocht	poor
+poiblí	public
+gaoth	(1) wise, sagacious, shrewd, intelligent
+iontach	wonderful
+ionann	identical
+cinnte	certain
+glan	clean
+mór	large, big
+olc	bad/evil
+bog	soft
+leath	(1) lying, turned, to one side; (2) one-sided, partial; (3) half-, hemi-, semi-; (4) half-grown; (5) one of two, of a pair
+sóisialta	social
+uasal	(1) noble, high-born; gentle, gentlemanly; (2) noble, precious, fine; (3) sacred to the dead, hallowed, enchanted; (4) as title, Mr.
+deacair	hard, difficult
+grian	(1) solar, sun-
+dócha	probable
+úr	fresh/new
+deireanach	last
+cuí	Fitting, proper.
+bán	white
+fóill	(in adv. phrase) go fóill (yet, still)
+mó	greater
+speisialta	special
+dearg	red
+slán	safe
+idirnáisiúnta	international
+déanach	late
+domhain	deep
+réidh	ready/smooth
+oifigiúil	official
+páirteach	1. Participating, sharing. 2. sympathetic. 3. partial.
+geal	bright
+láithreach	immediate
+marbh	dead
+álainn	beautiful
+géar	sharp
+gar	near
+trom	≈ heavy
+dáiríre	serious
+deimhin	sure
+glas	green
+soiléir	clear
+pearsanta	personal
+sean	old
+daonna	human
+leathan	broad, wide
+gairid	1. short. 2. Near, close. 
+íseal	low
+polaitiúil	political
+Caitliceach	Catholic
+mall	slow
+ábalta	able, able-bodied
+ginearálta	general
+riachtanach	necessary
+rialta	regular
+nocht	naked
+trua	"1. (a) Pitiable; miserable, wretched.
+1. (b) (With copula) It is a pity (that).
+2. (a) Lean.
+2. (b) Thin, emaciated; wasting."
+cruinn	accurate
+fuar	"1. Cold. (a) (Of temperature, feeling). (b) Not heated, allowed to cool after cooking. (c) Sensitive to cold. (d) Slow to absorb heat. (e) Chilling, depressing. (f) Without ardour. (g) Apathetic. (h) Vain, profitless. (i) Without interest. (j) Dead.
+2. Raw, uncooked.
+3. (Of masonry) Dry."
+breac	speckled, spotted
+gorm	blue
+ciúin	quiet; calm, silent, still
+crua	hard
+clé	left
+coitianta	common
+nádúrtha	natural
+iomaí	2. (Used predicatively) Many.
+teann	tight
+binn	melodious
+déanta	done
+domhanda	1. Terrestrial. 2. mundane, worldly. 3. world-wide, global
+éifeachtach	effective
+lasmuigh	outside
+ceithre	four
+aisteach	1. (a) Peculiar, queer. (b) Wonderful, surprising. 2. Droll.
+bunúsach	basic
+buí	yellow
+suntasach	1. Noticeable, remarkable; prominent, distinctive. 
+dona	bad
+daingean	"1. Fortified, solid; strong, secure.
+2. Fixed, fast; firm.
+3. Steadfast, constant; firm of purpose.
+4. Intense."
+lag	weak
+cultúrtha	cultural
+príobháideach	private
+anuraidh	(time) last year
+miste	pred. a. (Combined form of measa de:olc28. Used with copula). 1. Is ~ (do), it matters (to). Is beag is ~ faoi, it matters little about it. Ní ~ a rá (go), it is no harm to say (that). Níor mhiste smaoineamh air, it would be well to think about it. Ar mhiste ceist a chur air faoi? Would it be all right to ask him about it? Is ~ an tír, don tír, é, it matters to the country. Is dom is ~ é, it certainly matters to me. Ní ~ duit cad é a dúirt mé, it doesn’t matter to you what I said. Ar mhiste duit fanacht tamall? Would it be inconvenient for you to stay a while? Rud nár mhiste dó, as well he might. 2. (With le) Is ~ liom faoi, I mind, care, about it. Ní ~ leo ann nó as mé, they don’t care whether I exist or not. Más ~ leat suí, if you like to sit. An ~ leat? Do you mind? Mura ~ leat, if you don’t mind. An dtiocfaidh tú linn? Ní ~ liom. Will you come with us? I don’t mind.
+oiriúnach	1. suitable, fitting. 2. fit, ready. 3. agreeable, well-behaved, respectable.
+iomchuí	appropriate
+caol	narrow/slender
+caoin	gentle
+leanúnach	continuous
+simplí	simple
+neamhspleách	[neamh-] + [?spleách] = independent
+traidisiúnta	traditional
+Ceilteach	Celtic
+dílis	"1. Own; proper («do», to).
+2. Genuine; reliable, solid.
+3. Loyal, faithful.
+4. Dear."
+dorcha	dark
+cúramach	careful
+éasca	Swift, nimble; free, fluent, easy; ready, prompt.
+difriúil	different
+freagrach	responsible
+furasta	easy
+gnóthach	busy
+ceathrú	fourth
+tobann	sudden
+buan	permanent
+bliantúil	annual
+amárach	tomorrow
+eacnamaíoch	economic
+gnách	usual
+dian	severe
+saibhir	rich
+aitheanta	recognized
+oscailte	open
+liteartha	literary
+gníomhach	active
+tirim	dry
+Protastúnach	Protestant
+folamh	empty
+fairsing	1a. wide, extensive; ample, spacious. 2a. plentiful, abundant. 2b. liberal, labish, bountiful.
+cáiliúil	famous
+acmhainneach	resourceful
+garbh	rough
+Críostaí	Christian
+tíor	dry
+liath	gray
+uafásach	terrible
+sóisialach	socialist
+naofa	holy
+ciontach	guilty
+sonrach	specific
+deonach	voluntary
+spéisiúil	interesting
+lárnach	central
+forleathan	extensive
+tréan	strong
+stairiúil	historical
+suimiúil	interesting
+fásta	[VA-fás] grown
+gránna	ugly
+lom	1. bare. 2. thin. 3. close.
+iondúil	usual, customary
+míleata	military
+sibhialta	civil
+donn	brown
+fliuch	wet
+gairmiúil	professional
+claon	"1. Inclined; sloping, slanting.
+2. Bent down, reclining. 
+3. (With «ar», «chun») Tending, prone, to; partial to. 
+4. Perverse. "
+casta	"2. Twisted, wound.
+3. Complicated, intricate, involved.
+4. Gnarled, bent; wizened."
+dlúth	"1. Close, compact; dense, solid.
+2. Close, tight; near.
+3. Intense, earnest."
+teoranta	limited
+tinn	sick
+réigiúnach	regional
+buíoch	grateful
+réasúnta	reasonable
+cuimsitheach	1. comprehensive, inclusive. 2. Gram: Restrictive
+inmheánach	internal
+eachtrach	foreign
+sealadach	temporary, provisional
+dúchasach	native
+straitéiseach	strategic
+laethúil	daily
+tapa	fast
+sinsearach	senior
+dall	blind. 2. (a) Dull, uninformed; in the dark
+mín	smooth
+praiticiúil	practical
+cáilitheach	qualifying
+socair	Quiet, still; calm, unruffled; easy, steady; settled; at rest.
+daonlathach	democratic
+rua	red
+fiáin	wild
+aoibhinn	delightful, blissful
+cóngarach	near
+grinn	accurate, precise
+tuirseach	tired
+annamh	"1. Rare, infrequent.
+2. Lit: Lonely, desolate."
+uaigneach	lonely
+maol	"1. (a) Bare, bald.
+1. (b) Bare, unprotected.
+2. (a) Hornless.
+2. (b) Cropped.
+3. Roofless, dismantled.
+4. Edgeless, blunt.
+5. (a) Flattened.
+5. (b) Geom: Obtuse.
+6. (Of tone) Flat.
+7. Dense, obtuse.
+8. Late in day.
+9. (Intensifying)"
+cumasach	1. capable, powerful. 2. (as intensifying adjective)
+bréan	rotten
+mion	detailed
+salach	dirty
+ríoga	royal
+náisiúnach	national
+síor	eternal
+pósta	married
+abhus	(1) here; (2) on this side
+suarach	1. Paltry, petty, insignificant; mean, contemptible. 2. Airy, frivolous.
+buartha	worried
+acadúil	academic
+luachmhar	valuable, precious
+sásúil	satisfactory
+briste	broken
+galánta	elegant
+fionn	fair/blonde
+daor	expensive, dear
+nua-aimseartha	[nua-] + [aimseartha] = modern
+cinnteach	certain, sure
+dátheangach	[dá-] + [teangach] = bilingual
+síoraí	Eternal, perpetual; unceasing, continual; constant, persevering.
+daite	colored
+reachtúil	statutory
+contúirteach	dangerous
+sona	happy
+dealbh	(1) destitute, bare, empty, bleak; (2) bleak weather
+tanaí	"1. Thin. (a) Of little thickness. (b) Fine. (c) Lean. (d) Flimsy. (e) Sparse. (f) Weak, watery. (f) Metall: Miotal tanaí
+2. Shallow."
+cruthaitheach	creative
+plaisteach	plastic
+suite	situated; fixed; stocky
+poblachtach	republican
+cumhachtach	powerful
+cúng	narrow
+rúnda	1. Mystical, mysterious. 2. Secret, confidential.
+Oilimpeach	Olympic
+dearfach	affirmative, positive
+dúnta	closed
+ábhartha	material; relevant
+teicniúil	technical
+comhairleach	advisory
+órga	golden
+gasta	quick
+bréagach	false
+macánta	honest
+Rómhánach	Roman
+lánaimseartha	[lán] + [aimseartha] = full-time
+réasúnach	reasonable
+fánach	random
+sábháilte	safe
+mear	quick
+bríomhar	lively
+coiriúil	criminal
+ársa	ancient
+leictreach	electric
+foirmiúil	formal
+iníoctha	[in-] + [VA-íoc] = payable, due
+infheidhme	Fit for service; able to function; fit, able-bodied.
+milis	sweet
+dlíthiúil	legal
+uachtarach	1. upper, top. 2. Higher, superior.
+ainmneach	1. Gram: Nominative.
+fíochmhar	fierce
+críonna	"1. (a) Wise, prudent.
+1. (b) Shrewd, sagacious.
+1. (c) Thrifty.
+2. Grown-up, mature.
+3. Old."
+fiúntach	Worthy; decent, respectable; generous.
+dána	bold, daring
+imeartha	"[VA-imir] = 
+Tricky, prankish.
+Practised, clever.
+Tried, exhausted.
+(play-); (playing-)"
+ramhar	fat
+gann	scarce
+cairdiúil	friendly
+taitneamhach	enjoyable
+aosta	old
+bainteach	"[PrepositionalAdjective] (With «le»)
+Involved in, relative to."
+brónach	sad
+beacht	precise
+cliste	clever
+séimh	gentle
+bródúil	proud
+diúltach	negative
+dearfa	positive
+measartha	moderate
+eolach	knowledgeable
+tais	wet
+clasaiceach	classical
+corr	odd
+gaolmhar	related; cognate
+Spáinneach	Spanish
+spioradálta	spiritual
+rannpháirteach	participative
+tugtha	"[VA-tabhair] = 
+Spent, exhausted.
+Given to, prone to."
+dóchasach	hopeful
+docht	tight
+aduaidh	(direction) northwards
+greannmhar	funny
+compordach	1. Comfortable. 2. Comforting; agreeable, pleasant.
+dleathach	"1. Lawful, legal.
+2. Valid, genuine.
+3. Just, proper."
+feasach	Knowing, knowledgeable, well-informed.
+caoch	blind
+seachtrach	External, exterior.
+cam	crooked
+aerach	"1. Airy.
+2. (a) Light-hearted, gay; lively, frolicsome. (b) Flighty, giddy."
+achomair	"1. Concise, brief.
+2. Summary.
+3. Near, close to."
+fírinneach	truthful
+leictreonach	electronic
+clúiteach	famous
+tromchúiseach	[trom] + [cúiseach] = serious
+fial	generous
+bídeach	tiny
+tograch	"1. Ready, eager.
+2. Predisposed, tending («do», to)."
+lách	Pleasant, affable, sociable, friendly.
+bacach	lame; halting, imperfect [+n]
+folláin	Healthy; wholesome, sound.
+comhaimseartha	[comh] + [aimseartha] = contemporary
+feiliúnach	"Suitable; fitting, fit, becoming.
+Obliging, helpful."
+práinneach	urgent
+inniúil	"[PrepositionalAdjective] (With «ar», «chun», «do»)
+1. Able, fit, for.
+2. Equipped, ready, for."
+eachtrannach	foreign
+baileach	"1. (Mainly used adverbially) Exact.
+2. Frugal, thrifty."
+míshásta	[mí-] + [sásta] = dissatisfied
+sainiúil	distinctive
+stuama	"1. Sensible, level-headed; self-possessed, staid, prudent.
+2. Skilful, patient, steady."
+ealaíonta	artistic
+millteanach	terrible
+moch	early
+blasta	tasty
+seachtainiúil	weekly
+cuimhneach	memorable
+cróga	"Brave.
+Hardy; lively, spirited."
+Atlantach	Atlantic
+marfach	deadly
+eaglasta	ecclesiastical
+slachtmhar	Well-finished, neat, tidy
+díomhaoin	"1. Idle. (a) Worthless, vain. (b) Unoccupied, unemployed.
+2. Unmarried."
+dathúil	1. Colourful; comely, beautiful. 2. Generous.
+toll	hollow
+uirbeach	urban
+singil	single
+díograiseach	diligent
+tuisceanach	understanding; wise, discerning; thoughtful, considerate.
+coimhthíoch	foreign, alien
+príomha	primary
+moltach	praiseworthy
+úsáideach	useful
+righin	stiff, rigid
+tionsclaíoch	industrial
+tarraingteach	attractive
+ciallmhar	sensible
+cineálta	kind
+searbh	bitter
+éigeantach	mandatory
+toilteanach	willing
+bunreachtúil	constitutional
+aireach	attentive
+tachtach	choking
+eolaíoch	scientific
+glic	Clever, ingenious; shrewd, sagacious; crafty, cunning.
+ceadaithe	permitted
+mithid	"1. Pred. a. (With copula) It is (high) time.
+2. s. (pl. mithidí). Due, convenient, time."
+gleoite	cute, lovely
+amaideach	foolish
+follasach	obvious
+tubaisteach	disastrous
+imníoch	anxious
+sóisearach	junior
+inchurtha	[in-] + [VA-cuir] = comparable
+suaimhneach	peaceful
+oilte	skilled
+amhrasach	suspicious
+corrach	unsteady
+baolach	dangerous
+caighdeánach	standard
+Albanach	Scottish
+samplach	exemplary
+millteach	destructive
+indéanta	[in-] + [VA-déan] = Practicable; fit to be done.
+flúirseach	abundant
+breithiúnach	judicial
+balbh	mute
+saolta	worldly
+morálta	moral
+beannaithe	blessed
+gruama	Gloomy, sad; morose, despondent; sombre, cheerless.
+iargúlta	"Backward, remote, isolated.
+Outlandish, wild, terrible."
+umhal	humble
+gearánach	complaining
+ionraic	"1. Upright, honest.
+2. Artless, guileless."
+núicléach	nuclear
+cathartha	civil
+conspóideach	controversial
+ceanúil	affectionate
+nimhneach	poisonous
+uatha	(grammar) singular
+bodhar	deaf
+orgánach	(noun) an organism; (adjective) organic.
+neamhghnách	[neamh-] + [gnách] = unusual
+foirfe	1. Complete, perfect. 2. Aged, mature. 3. Gram:An aimsir fhoirfe, the perfect tense.
+brocach	badger-like
+gonta	[VA-goin] concise
+cneasta	1. Honest, sincere. 2. Decent, seemly. 3. Mild-mannered. 4 (Of weather) Mild, calm.
+sláintiúil	healthy
+feargach	angry
+ceimiceach	chemical
+borb	"1. Fierce, violent; rude.
+2. Coarse, strong, pungent.
+3. Rank."
+caillte	[VA-caill] lost
+ait	strange, odd
+múinte	polite
+coimeádach	conservative
+íochtarach	lower
+páirtaimseartha	[páirt-] + [aimseartha] = part-time
+costasach	expensive
+fuinniúil	energetic
+ainnis	miserable
+cráifeach	pious, devout
+mídhleathach	[mí-] + [dleathach] = illegal
+lofa	rotten
+tráthúil	timely
+muinteartha	"Belonging to a household or community; associated, familiar.
+Friendly."
+meabhrach	"1. Mindful, recollective.
+2. Reflective, thoughtful; intelligent.
+3. Conscious, aware."
+béasach	polite
+proifisiúnta	professional
+leamh	"1. Lit: Soft; weak, impotent.
+2. Tepid; tasteless, insipid.
+3. Lifeless, dull, uninteresting.
+4. Soft-witted; inane, silly."
+dóite	burnt
+údarásach	authoritative
+dochreidte	[do-] + [VA-creid] = unbelievable
+oideachasúil	educational
+barúlach	opinionated
+iomráiteach	famous
+fonnmhar	eager
+néata	neat
+sleamhain	slippery
+úrnua	brand new
+fiosrach	curious
+náireach	shameful
+gnéasach	sexual
+lonrach	bright, shining
+líonmhar	numerous
+neirbhíseach	nervous
+daoineach	sociable
+liobrálach	liberal
+ansa	dearest, most beloved
+smaointeach	thoughtful
+glórach	noisy
+síochánta	peaceful
+scoite	[VA-scoith] = isolated
+misniúil	brave
+dúthrachtach	diligent
+araile	"certain
+, a. & pron. 1. Lit:~ lá, on a certain day. ~ aimsir, on one occasion. In ~ fásach, in a certain wilderness. 2. Lit: Le h~, with each other. Ó láimh go h~, from one hand to the other. 3. Agus ~, et cetera."
+indíreach	[in-] + [díreach] = indirect
+maorga	1. Stately, dignified, imposing. 2. Sedate, quiet. 
+ilghnéitheach	[il-] + [gnéitheach] = diverse
+nua-aoiseach	[nua-] + [?aoiseach] = modern
+cónaitheach	residential
+achrannach	contentious
+gealgháireach	[geal] + [gáireach] = cheerful
+inghlactha	[in-] + [VA-glac] = acceptable
+deimhneach	"1. Certain.
+2. Positive."
+léannta	learned
+aonarach	solitary
+téarmach	terminal
+spreagúil	inspiring
+fileata	poetic
+fónta	worthwhile, sound
+Oráisteach	Orange (related to the Orange Order)
+cearnach	square
+flaithiúil	generous
+gafa	[VA-gabh] = engaged
+snasta	polished
+diaga	divine
+sámh	Peaceful, tranquil; easy, restful; pleasant.
+báúil	sympathetic
+rathúil	successful
+eisceachtúil	exceptional
+comhtháite	integrated
+uaine	green
+feiceálach	noticeable
+neamhshuim	Lack of interest, disregard, indifference. neamhshuim a dhéanamh de rud, to disregard, make light of, sth.; to treat sth. as unimportant.
+torthúil	fertile
+bradach	thieving
+ingearach	vertical
+fóirsteanach	appropriate
+míosúil	monthly
+diamhair	Dark, obscure; occult, mysterious; secluded, solitary; eerie, weird, lonely; fearsome.
+cinniúnach	fateful
+dainséarach	Dangerous.
+cabhrach	helpful
+seasta	[VA-seas] = 2. (a) Standing, supporting. (b) Steady, permanent, regular. (c) Delighted.
+muiníneach	confident
+croíúil	heartfelt
+soineanta	"(Of weather) Calm, clement, fair.
+(Of expression) Pleasant, serene.
+Innocent, guileless; simple, naive."
+seasmhach	Steadfast, firm, constant.
+aineolach	[ain-] + [eolach] = ignorant
+seafóideach	foolish
+adamhach	atomic
+cumhra	fragrant
+suaithinseach	remarkable
+tuairimeach	speculative, opinionated
+réadúil	realistic
+neodrach	neutral
+réabhlóideach	revolutionary
+intuigthe	[in-] + [VA-tuig] = Understandable, intelligible; implied, implicit.
+tostach	quiet
+sollúnta	solemn
+ceolmhar	musical
+solúbtha	[so-] + [VA-lúb] = Flexible, pliable, supple, adaptable.
+duairc	Morose, cheerless, joyless, gloomy. 
+iomadúil	numerous
+comhthreomhar	parallel
+éagórach	unjust
+magúil	mocking
+imeallach	marginal
+comhfhreagrach	corresponding
+leasc	reluctant
+líofa	"(a) Ground, sharpened, polished by friction.
+(b) Fluent, polished.
+(c) Keen, eager.
+(d) Sharp, speedy."
+grámhar	1. Loving, tender, affectionate. 2. Lovable, amiable.
+dúshlánach	challenging
+corraitheach	exciting
+glé	bright, clear
+téagartha	"1. Substantial, stout, bulky.
+2. Sheltered, warm, comfortable."
+contráilte	contradictory
+seicteach	sectarian
+intíre	domestic
+mealltach	enticing
+tapúil	quick
+tairbheach	beneficial
+allta	wild
+onórach	honorable
+scanrúil	scary
+dealraitheach	apparent, likely
+dícheallach	diligent
+teibí	abstract
+gléasta	dressed
+dubhach	gloomy, sad
+aibí	ripe, mature
+trialach	trial, experimental
+damanta	damned
+teolaí	1. warm, cosy, comfortable. 2. fond of comfort
+tofa	[VA-togh] = elected. 2. Choice.
+glórmhar	glorious
+faiteach	timid
+meidhreach	cheerful
+leochaileach	fragile, vulnerable
+bándearg	[bán] + [dearg] = pink
+amh	raw, uncooked
+neamhchoitianta	[neamh-] + [coitianta] = uncommon, rare
+corcra	purple
+trócaireach	merciful
+siúráilte	sure
+críochnaitheach	final, definitive
+goirt	salty
+méith	(noun) fat meat; (noun) richness or fertility, abundant yield; (adjective) fat, rich, fertile, mellow, juicy; (noun) swollen sea.
+naimhdeach	hostile
+foighneach	patient
+leadránach	boring
+fuilteach	bloody
+faiseanta	fashionable
+dearóil	"1. Frail, feeble; puny, insignificant.
+2. Cold, sensitive to cold; bleak, chilly.
+3. Mean, lowly; needy, poor; wretched."
+santach	"1. Greedy. Covetous, avaricious.
+2. Intensely eager."
+doiléir	[doi-] + [léir] = obscure, unclear
+criticiúil	critical
+fionnuar	"1. (Of air) Cool, refreshing.
+2. (Of temperature) Cool, moderate.
+3. (Of garment) Cool, light.
+4. (Of disposition) Calm, serene."
+fadálach	procrastinating
+éachtach	notable, remarkable
+diongbháilte	determined
+iomarcach	excessive
+Ultach	Ulster (adj.)
+substaintiúil	substantial
+ceadmhach	permissible
+iata	[VA-iaigh] = closed
+leisciúil	1. Lazy, slothful. 2. Reluctant, loath. 3. Shy.
+aimseartha	modern
+lochtach	faulty
+áiféiseach	absurd
+tiomanta	"[VA-tiomain] = (a) Sworn; set, determined.
+(b) (In asseverations)"
+fabhrach	favorable
+comónta	common
+dúbailte	double
+íon	(noun) pure; (adjective) guileless, sincere.
+áisiúil	convenient
+spleodrach	lively
+glinn	Clear, distinct, vivid.
+cúthail	1. bashful, shy. 2. Diffident, modest; quiet.
+dúr	stubborn
+collaí	carnal, sexual
+anaithnid	Strange, unknown.
+scaipthe	scattered
+mífhoighneach	[mí-] + [foighneach] = impatient
+éiginnte	"1. Uncertain, undetermined; indefinite, vague; undecided.
+2. Lit: Unlimited, infinite."
+iontaofa	trustworthy, reliable
+ocrach	hungry
+neamhurchóideach	(adjective) harmless, inoffensive.
+leithleach	(adjective) apart, peculiar, or distinct; (noun) a stand-offish or distant person; (legal term) refers to several covenants or jointly and severally; (adjective) selfish or egotistic.
+comhfhiosach	(adjective) aware or conscious of something.
+doicheallach	(adjective) churlish, inhospitable; (verb) to be unwilling to receive someone; (verb) to be churlish with someone; (verb) to be grudging with something, unwilling to do something; (noun) churlish, cold welcome; (noun) grudging word, smile; (phrase) he gave it grudgingly; (phrase) he is stand-offish in company.
+éifeachtúil	(adjective) having the ability to produce a desired effect or result.
+cáiréiseach	(adjective) careful; (adjective) nice, delicate.
+eitneach	(adjective) relating to a particular ethnic group.
+groí	(adjective) strong, vigorous, hearty; (adjective) strange.
+dlisteanach	legitimate
+súgach	(noun) sea-bream; (adjective) mellow with drink, merry, tipsy; (adjective) cheerful, happy.
+tur	dry
+ionadach	(adjective) substitute or vicarious; (adjective) out of the way or inaccessible.
+tánaisteach	(adjective) secondary; (noun) secondary evidence.
+measúil	respectful
+maslach	(adjective) insulting or abusive; (noun) an insulting remark or term of reproach; (adjective) overstrenuous or taxing; (noun) heavy or taxing work; (verb) to over-exert oneself or abuse one’s energies.
+íosta	(adjective) minimum or minimal.
+lúfar	(adjective) agile, active, athletic; (adjective) lithe and agile; (adjective) active and strong.
+clárach	(noun) a broad-faced person; (adjective) made of boards or wooden; (adjective) flat or broad in surface features; (adjective) splay in terms of feet.
+taobhach	(noun) giddiness or staggers; (adjective) lateral; (adjective) trusting; (adjective) partial or biased.
+crochta	(1) hung, hanged; (2) raised; (3) overhanging, steep; (4) hanging down; (5) taken up with something; (6) affected speech
+beathach	(1) alive and active
+seolta	(1) well-directed; (2) smooth-running, flowing, free; (3) easy, graceful; (4) skilful, adept (at); (5) satisfied, pleased, content
+meánach	(1) middle, intermediate; (2) medium, average; (3) moderate
+príomhúil	(1) primary; (2) principal; (3) chief
+seoigh	(1) wonderful; (2) great; (attrib.) (3) a great day's fun
+sóivéadach	(1) Soviet
+meisciúil	drunken
+mothálach	(1) sensitive, responsive
+gallda	(1) foreign; (2) English, Anglicized
+aigéadach	Acid, acidic.
+roghnach	(1) optional, facultative
+éirimiúil	intelligent
+meicniúil	(1) mechanical
+rite	(1) taut, tense; (2) sharp, steep; (3) exposed (to); (4) eager (for); (5) exhausted, extinct
+feidhmiúil	(1) functional; (2) capable, efficient; (3) forceful, strong
+ceannasach	(1) ruling, sovereign; (2) commanding, masterful; (3) forward, self-assertive, bold, assured; (4) dominant
+ciorclach	(1) circular; (2) cyclic in geometry
+saonta	(1) naive; (2) gullible
+fuarchúiseach	(1) cool, imperturbable; (2) chilly, frigid; (3) apathetic, indifferent
+mórálach	(1) proud; (2) boastful; (3) vain; (phrase) proud of something; (phrase) vain of her beauty; (phrase) delighted with her dress.
+bruite	(1) fiery; (2) mean, good for nothing
+íogair	(1) sensitive, delicate; (2) ticklish, touchy; (a) airy, lofty; (b) eerie, solemn
+cráite	(1) agonized, tormented, grieved
+banda	(1) womanly; (2) feminine
+fann	(1) faint, weak, languid
+cantalach	Plaintive; peevish, querulous.
+sciobtha	fast
+aclaí	agile
+geanúil	affectionate
+allúrach	1. Foreigner.
+baininscneach	 Gram: Feminine.
+teasaí	"1. Hot, warm.
+2. Ardent, passionate.
+3. Hot, feverish.
+4. Hot-tempered, fiery."
+aduain	Strange, unfamiliar; apart.
+fealltach	treacherous
+bagrach	1. Threatening, menacing.
+fáilteach	welcoming
+dóighiúil	fine-looking
+ballach	spotted
+athartha	paternal, ancestral
+éadóchasach	hopeless
+diail	Devilish; terrible, remarkable, wonderful.
+airdeallach	1. Alert, watchful.
+carthanach	charitable
+míshuaimhneach	uneasy; restless
+goilliúnach	"1. Painful, distressing, hurtful to feelings.
+2. Easily hurt, sensitive."
+léanmhar	sorrowful
+tearc	rare
+bailí	valid
+coinníollach	conditional
+aonraic	Solitary; alone.
+biorach	sharp
+calma	calm
+crosta	cross
+aicmeach	1. Generic. 2. Class.
+amaitéarach	amateur
+ceanndána	[ceann] + [dána] = stubborn
+anróiteach	1. Severe, inclement; distressing.
+tintrí	thunderous
+ardnósach	1. Grand, pompous; formal.
+falsa	false; lazy
+ainmhíoch	1. Animal, brutish. 2. Biol: Faunistic.
+araltach	1. Heraldic.
+sothuigthe	[so-] + [VA-tuig] = understandable
+ionúin	Dear, beloved.
+gnaíúil	attractive
+aislingeach	Visionary; dreamy.
+athraitheach	1. Changeable; movable; variant.
+mírialta	[mí-] + [rialta] = irregular
+codlatach	sleepy
+tarcaisneach	contemptuous
+ádhúil	1. Lucky, fortunate.
+aontaobhach	1. Unilateral.
+áthasach	1. Glad, joyful.
+aonaránach	1. Alone, solitary.
+anamúil	1. Lively, spirited.
+aigeanta	"Lit: Natural.
+Spirited, cheerful."
+deisbhéalach	eloquent
+gaofar	windy
+colgach	irritable
+caifeach	coffee-colored
+altach	1. Articulate, jointed. 2. Knotty. 3. Undulating; 4. wavy.
+leanbaí	"1. Child-like, innocent.
+2. Childish. (a) Puerile. (b) Doting."
+céillí	sensible
+féarmhar	grassy
+gaelach	1. Irish. 2. Attached to Irish, to Irish culture. 3. (Usually with lower-case initial)(a) Native to Ireland. (b) Homely, pleasant. (c) Common, ordinary.
+críochnaithe	[VA-críochnaigh] = finished
+tomhaiste	[VA-tomhais] = measured
+margaíoch	commercial
+siamsaíoch	entertaining
+iodálach	Italian
+inmhianaithe	Desirable.
+diaganta	godly, pious
+amscaí	Untidy; awkward.
+amplach	1. Hungry. 2. Greedy.
+dochrach	harmful
+cleasach	cunning
+stadach	hesitant
+graosta	vulgar
+bómánta	Slow of perception, slow-witted.
+mímhúinte	[mí-] + [múinte] = Unmannerly, rude, ill-bred.
+aspalda	apostolic
+díonach	Protective; impermeable, proof.
+meata	timid
+aimrid	Barren, sterile.
+deisiúil	skillful
+broghach	foul-smelling
+ámharach	1. Lucky, fortunate.
+spadánta	lazy
+airgeadúil	1. Silvery. 2. Financial. 3. Moneyed; profitable.
+aonchineálach	1. Homogeneous.
+atmaisféarach	1. Atmospheric(al).
+Artach	Arctic.
+féiltiúil	festive
+postúil	official
+ainmniúil	1. Nominal. 2. Noted, well-known.
+baistí	Baptismal.
+briotach	speckled
+piseogach	superstitious
+adharcach	Horned; horny.
+antráthach	1. Late, untimely.
+fiata	wild
+déistineach	disgusting
+aindleathach	1. Illegal.
+aistreánach	1. Out of the way, inconvenient. 2. Rugged. 3. Migratory.
+aerga	aerial, ethereal
+alcaileach	1. Alkaline.
+bratógach	patchy
+cotúil	Bashful, shy.
+armúrtha	Armoured, armour-clad.
+faillíoch	negligent
+alpach	1. Voracious, greedy. 2. Grabbing.
+ainglí	angelic
+aistreach	1. Journeying, roving; restless, unsettled. 2. Out of the way, inconvenient. 3. Transitive.
+ceathach	showery
+ainsealach	1. Chronic.
+anacair	1. Uneven, unsteady. 2. Uneasy, uncomfortable. 3. Difficult.
+anacrach	1. Distressed. 2. Distressing.
+bainniúil	1. Milky. 2. Milk-yielding.
+deaslámhach	dexterous
+anásta	"1. Needy.
+2. Clumsy, awkward."
+tíoránta	tyrannical
+uiscedhíonach	waterproof
+áitithe	1. Established, confirmed, practised.
+andúchasach	1. Non-native, foreign; exotic.
+aoibhiúil	1. Pleasant, smiling.
+aigéanach	1. Oceanic.
+áititheach	1. Persuasive.
+aranta	Irritable, ill-humoured.
+absalóideach	absolute
+aimlithe	1. Sodden, spoiled by rain. 2. Wretched. 3. Enfeebled, puny. 4. Mawkish, rendered tasteless.
+ainrianta	1. Unbridled, unruly. 2. Licentious.
+báiteach	1. Watery. 2. Pale, wan. 3. Pastel. 4. (of cards) Faced.
+agóideach	1. Objecting, protesting. 2. Cantankerous.
+ainbhiosach	1. Ignorant; stupid.
+ainmhianach	1. Passionate, lustful.
+aistritheach	1. Movable.
+fadsaolach	long-lived
+athfhillteach	1. Recurring, recurrent. 2. Reflexive. 3. Reflex.
+abartha	witty; Given to repartee
+atuirseach	1. Weary; dejected.
+cúiseach	Well-mannered; prim, demure.
+adhfhuafar	[ad-] + [fuafar] = Horrible, abominable.
+aingiallta	1. Irrational. 2. (Of person) Unreasoning, rough.
+bách	Affectionate.
+fuafar	Hateful, hideous, odious
+aithríoch	penitent
+anghrách	Erotic.
+antoisceach	extreme
+acrach	Handy, useful; convenient.
+aiféalach	1. Regretful, sorrowful. 2. Shamefaced, shy.
+ainmheasartha	[ain-] + [measartha] =  Immoderate, intemperate.
+astaróideach	asteroid-related
+comharsanúil	neighborly
+garach	neighborly
+aiteasach	1. Pleasant, joyful.
+antaiseipteach	1. Antiseptic.
+arúil	1. Fertile, arable.
+ainrialta	[ain-] + [rialta] = Undisciplined, disorderly; anarchical.
+ainspianta	Grotesque; abnormal.
+aonta	1. One. 2. Simple. 3. Single.
+aibítreach	1. Alphabetical.
+ainneonach	1. Involuntary.
+Antartach	Antarctic
+ábhailleach	Playful, mischievous.
+ainscianta	Wild, furious.
+antaibheathach	antibacterial, related to bacteria prevention
+artaireach	1. Arterial.
+ailléirgeach	1. Allergic.
+aimhrialta	[?aimh-] + [rialta] = irregular; anomalous
+antlásach	1. Greedy, covetous.
+baictéarach	1. Bacterial.
+amadánta	Foolish; fatuous
+aontaitheach	1. Assenting, agreeing.
+aindiaga	[ain-] + [diaga] = godless; impious
+amhlánta	Boorish; doltish.
+apacailipteach	1. Apocalyptic.
+atáirgeach	1. Reproductive.
+bachallach	1. Crooked, hooked. 2. Curled, ringleted. 3. Circinate.
+aithriúil	1. Fatherly.
+anuasal	[an-] + [uasal] = Low-born, ignoble.
+aicearrach	1. Short.
+aithriseach	 1. Imitative; mocking. 2. Mimetic.
+anchumtha	[an-] + [VA-cum] = misshapen
+súgrach	Playful
+ábhal	Great, immense.
+aerachtúil	eerie
+aibhseach	1. Great, immense. 2. High.
+aithiseach	1. Defamatory; shameful.
+armónach	1. Harmonic.
+acaointeach	Plaintive, doleful. 
+aerdhíonach	air-tight
+aighneasach	1. Argumentative; talkative.
+béaltirim	[béal] + [tirim] = Dry-lipped, parched.
+aiséitiúil	ascetic
+neamh-mhaorga	[neamh-] + [maorga] = Unimposing, undignified.
+tarnocht	[tar-] + [nocht] = (Stark) naked.
+gnéitheach	1. Pertaining to species, specific. 2. Pertaining to features; of good appearance.
+ealaionta	artistic
+compordúil	comfortable
+mí-aigeanta	Dispirited
+éalangach	Flawed, defective; weak, debilitated. 
+scifleogach	flippant
+imeachtach	Going, moving, travelling; speedy.
+samhaliteach	imaginary
+gáireach	Laughing, smiling.
+gaothach	windy
+aeistéitiúil	aesthetic, relating to beauty
+rabhach	forewarning; premonitory
+Is baolach go	it is to be feared that

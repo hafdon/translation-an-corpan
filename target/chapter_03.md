@@ -10,7 +10,7 @@ Darkness fell immediately but Paul had closed his eyes anyway. He listened, but 
 
 Tic tic tic.
 
-A sound at last. He listened carefully. Something hard hitting against the rocks. And then - a sound of running water, far, far away. And some weird smell, something sharp burning. Paul felt tears gathering in his eyes. What was there? He had to open his eyes, but the fear wouldn't let him do that. He saw a clear picture of the fold eyes of the corpse in his mind. .. ..
+A sound at last. He listened carefully. Something hard hitting against the rocks. And then - a sound of running water, far, far away. And some weird smell, something sharp burning. Paul felt tears gathering in his eyes. What was there? He had to open his eyes, but the fear wouldn't let him do that. He saw a clear picture of the fold eyes of the corpse in his mind. . .
 
 Eventually, he attempted to open his eyes. He drew a breath when he saw the things that were all around him. There was no museum, nor the other students! Where was Mrs. Russell, Tomas, and the exhibit? And Aodh?
 
@@ -42,7 +42,7 @@ The water was always a very dark color, it seemed to him, but when sparks jumped
 
 At that minute the blood started to gather around his bare feet and, without delay, he stood in a pool of blood.
 
-On the point of letting out a scream, Paul heard the other sound: tic tic tic. His eyes jumped everywhere while he hoped the source of the sound would come. He saw, at the other end of the cave, in a chair that was made from a skeleton, an old withered man. .. .. the same person that he had seen in the sarcophagus in the museum.
+On the point of letting out a scream, Paul heard the other sound: tic tic tic. His eyes jumped everywhere while he hoped the source of the sound would come. He saw, at the other end of the cave, in a chair that was made from a skeleton, an old withered man. . . the same person that he had seen in the sarcophagus in the museum.
 
 He looked at Paul with cold eyes, the eyes being half-closed in order to examine the boy that was in front of him.
 
