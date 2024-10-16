@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>An bhfuil tú ag iarraidh rud ar bith — irisí, do Ghameboy?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T070231Z" creationid="starkat" creationdate="20241016T070231Z">
+        <seg>Do you want anything — magazines, your Gameboy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>An dtuigeann sibh é sin?</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241013T205937Z" creationid="starkat" creationdate="20241013T205937Z">
@@ -621,6 +629,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Bhí mé an-tógtha leis an taispeántas féin, gan trácht ar an méid a tharla.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T065903Z" creationid="starkat" creationdate="20241016T065903Z">
+        <seg>I was very taken with the exhibit itself, without speaking to what happened.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Bhí na draoithe agus na hasarlaithe iontach tábhachtach, agus, de ghnáth, ba iad na draoithe a bhíodh ag lorg eolais, tríd an eolaíocht agus an réasúnaíocht, faoin domhan.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T194951Z" creationid="starkat" creationdate="20241014T194951Z">
@@ -818,6 +834,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T174009Z" creationid="starkat" creationdate="20241014T174009Z">
         <seg>Martin to give credence to his story, like he was studying the exhibit - although there wasn't anything in front of him on the wall but a fire extinguisher hanging there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Chas Neans chuig a fear chéile.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T065145Z" creationid="starkat" creationdate="20241016T065145Z">
+        <seg>Neans turned to her husband.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,6 +1206,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Feicfidh mé anocht sibh, arsa Pól agus codladh air, agus na súile á ndúnadh aige.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T070339Z" creationid="starkat" creationdate="20241016T070339Z">
+        <seg>I will see you tonight, sid Paul while falling asleep, and his eyes closed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Fuaim faoi dheireadh.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241015T065630Z" creationid="starkat" creationdate="20241015T065630Z">
@@ -1374,6 +1406,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Mhothaigh sé a Mham á phógadh ar a chlár éadain agus ansin chuala sé an bheirt acu ag siúl amach agus iad ag caint go ciúin le chéile.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T070432Z" creationid="starkat" creationdate="20241016T070432Z">
+        <seg>He felt his mom kissing him on his forehead and then he heard the two of them walking out while they talked quietly together.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Má fheicimse duine ar bith ag láimhseáil rud ar bith, beidh an duine sin ag dul os comhair an Phríomhoide maidin amárach.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241013T205918Z" creationid="starkat" creationdate="20241013T205918Z">
@@ -1446,6 +1486,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Ní gá duit a bheith buartha.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T065419Z" creationid="starkat" creationdate="20241016T065419Z">
+        <seg>You don't need to be worried.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Ní raibh amhras ar bith air ach gurbh é Máirtín Ó hÉibhín, an phian sa tóin ba mhó sa rang, a bhí tar éis buille a bhualadh air.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241014T172725Z" creationid="starkat" creationdate="20241014T172725Z">
@@ -1486,10 +1534,26 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Rinne Pól gáire.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T065216Z" creationid="starkat" creationdate="20241016T065216Z">
+        <seg>Paul laughed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Rinne Pól iarracht neamhshuim a dhéanamh díobh ach bhí rud éigin ina súile feargacha a tharraing a aird orthu arís agus arís eile.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241016T043229Z" creationid="starkat" creationdate="20241016T043229Z">
         <seg>Paul attempted to be disinterested in them but something was in their angry eyes that drew his attention to them again and again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Rinne a thuismitheoirí miongháire agus d'éirigh siad ina seasamh.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T065929Z" creationid="starkat" creationdate="20241016T065929Z">
+        <seg>His parents smiles and stood up.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1806,6 +1870,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Tiocfaimid faoi do choinne anocht, ceart go leor?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T070136Z" creationid="starkat" creationdate="20241016T070136Z">
+        <seg>We will come for your appointment tonight, okay?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Tuineach éadrom a bhí á caitheamh aige ina n-ionad, an cineál a bhíodh á chaitheamh ag na hÉigiptigh fadó, nó na Manatayaigh sa taispeántas!</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241015T231708Z" creationid="starkat" creationdate="20241015T231708Z">
@@ -1814,10 +1886,26 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>Tá mise ceart go leor, ar sé ar nós cuma liom.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T065724Z" creationid="starkat" creationdate="20241016T065724Z">
+        <seg>I'm really okay, he said nonchalantly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>Tá na staraithe seo tar éis an t-iomlán a chumadh.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241015T042015Z" creationid="starkat" creationdate="20241015T042015Z">
         <seg>These historians have invented the whole thing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>Tá tuirse orm, sin an méid.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T065801Z" creationid="starkat" creationdate="20241016T065801Z">
+        <seg>I am tired, that's all.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2126,6 +2214,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>— Bob, tá imní mór orm.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T065203Z" creationid="starkat" creationdate="20241016T065203Z">
+        <seg>— Bob, I'm actually worried.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>— Bíonn an iomarca clár teilifíse ann na laethanta seo, chuirfeadh siad scanradh ort .</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241016T053523Z" creationid="starkat" creationdate="20241016T053523Z">
@@ -2278,6 +2374,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>— Mura bhfuil an Playstation sin tar éis dochar buan a dhéanamh dá intinn ní dhéanfaidh rud ar bith é.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T065135Z" creationid="starkat" creationdate="20241016T065135Z">
+        <seg>— If that Playstation has not done permanent injury to his mind, nothing could.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>— Nach iontach an chuma atá orthu?</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T030646Z" creationid="starkat" creationdate="20241004T030646Z">
@@ -2286,10 +2390,26 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>— Ná bí ag cur imní ar an leaid, a Neans, arsa a Dhaid de ghuth mín.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T065001Z" creationid="starkat" creationdate="20241016T065001Z">
+        <seg>— Don't be worrying the lad, Neans, said Dad's smooth voice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>— Ná bí do do chur féin trí chéile arís, a Neans, ar sé go ciúin.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241016T054030Z" creationid="starkat" creationdate="20241016T054017Z">
         <seg>— Don't be getting upset again, Neans, he said quietly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>— Ná bí mar sin, a Mham, tá an ceart ag Daid.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T065251Z" creationid="starkat" creationdate="20241016T065251Z">
+        <seg>— Don't be like that, Mom, Dad is right.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2322,6 +2442,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241015T043316Z" creationid="starkat" creationdate="20241015T042111Z">
         <seg>— You don't know anything, Martin said threateningly while he pushed against the coffin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>— Níl pian ar bith orm.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T065737Z" creationid="starkat" creationdate="20241016T065737Z">
+        <seg>— I'm not in any pain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2406,6 +2534,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>— Sin é an fáth a raibh air na tástálacha seo a dhéanamh, le bheith cinnte nach bhfuil dochar buan ar bith déanta duit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T064902Z" creationid="starkat" creationdate="20241016T064902Z">
+        <seg>— That's the reason that he had to do these tests, to be sure that no permanent injury had been done to you.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>— Smaoinigh air, a bheith faoi ghlas i gcónra, agus tú beo.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241015T005827Z" creationid="starkat" creationdate="20241015T005827Z">
@@ -2470,6 +2606,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
     </tu>
     <tu>
       <tuv lang="ga">
+        <seg>— Tá go maith, a Phóil, arsa a Mham, fágfaimid tú le codladh a dhéanamh.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T070020Z" creationid="starkat" creationdate="20241016T070020Z">
+        <seg>— That's great, Paul, said his mom, we will leave you to get some sleep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
         <seg>— Tá go maith, arsa Aodh Ó Táilliúir.</seg>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T030456Z" creationid="starkat" creationdate="20241004T030456Z">
@@ -2514,6 +2658,14 @@ leathdhuine-leathiaguar = half-man, half-jaguar</note>
       </tuv>
       <tuv lang="en-US" changeid="starkat" changedate="20241004T045849Z" creationid="starkat" creationdate="20241004T030403Z">
         <seg>— The exhibit is very big.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ga">
+        <seg>— Níl, tá mé go breá.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="starkat" changedate="20241016T070239Z" creationid="starkat" creationdate="20241016T070239Z">
+        <seg>— No, I'm great.</seg>
       </tuv>
     </tu>
     <tu>

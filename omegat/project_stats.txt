@@ -1,11 +1,11 @@
-10/15/24, 11:40 PM
+10/16/24, 12:04 AM
 Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
 Total:           	     436	 5330	                  23812	                 28831	     6	
-Remaining:       	      54	  658	                   2891	                  3506	     3	
+Remaining:       	      35	  443	                   2014	                  2424	     3	
 Unique:          	     370	 4744	                  21210	                 25679	     5	
-Unique Remaining:	      54	  658	                   2891	                  3506	     3	
+Unique Remaining:	      35	  443	                   2014	                  2424	     3	
 
 
 Individual File Statistics:
@@ -16,4 +16,4 @@ chapter_01.md                	            84	                 1	             84	
 chapter_01_the_exhibition.txt	            32	                 0	              0	                        0	        425	              0	           0	                     0	                         1901	                                0	                             0	                                       0	                        2303	                               0	                            0	                                      0	
 chapter_02.md                	           105	                 0	            100	                        0	       1308	              0	        1308	                     0	                         6017	                                0	                          6012	                                       0	                        7263	                               0	                         7258	                                      0	
 chapter_03.md                	           104	                 1	             97	                        1	       1281	             21	        1272	                    21	                         5553	                              110	                          5519	                                     110	                        6738	                             130	                         6698	                                    130	
-chapter_04.md                	           100	                52	             87	                       52	        987	            622	         984	                   622	                         4299	                             2707	                          4270	                                    2707	                        5227	                            3288	                         5196	                                   3288	
+chapter_04.md                	           100	                33	             87	                       33	        987	            407	         984	                   407	                         4299	                             1830	                          4270	                                    1830	                        5227	                            2206	                         5196	                                   2206	

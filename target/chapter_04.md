@@ -38,21 +38,21 @@ Paul shook his head slowly.
 
 Exhaustion hit Paul, he rubbed his face. — Well, Dad, the next thing I remember I was waking up here.
 
-— The doctor is saying that you fell from sudden weakness and that you hit your head when you fell down, his mother said nervously. — Sin é an fáth a raibh air na tástálacha seo a dhéanamh, le bheith cinnte nach bhfuil dochar buan ar bith déanta duit.
+— The doctor is saying that you fell from sudden weakness and that you hit your head when you fell down, his mother said nervously. — That's the reason that he had to do these tests, to be sure that no permanent injury had been done to you.
 
-— Ná bí ag cur imní ar an leaid, a Neans, arsa a Dhaid de ghuth mín. — Mura bhfuil an Playstation sin tar éis dochar buan a dhéanamh dá intinn ní dhéanfaidh rud ar bith é.
+— Don't be worrying the lad, Neans, said Dad's smooth voice. — If that Playstation has not done permanent injury to his mind, nothing could.
 
-Chas Neans chuig a fear chéile. — Bob, tá imní mór orm.
+Neans turned to her husband. — Bob, I'm actually worried.
 
-Rinne Pól gáire.
+Paul laughed.
 
-— Ná bí mar sin, a Mham, tá an ceart ag Daid. Ní gá duit a bheith buartha. Tá mise ceart go leor, ar sé ar nós cuma liom. — Níl pian ar bith orm. Tá tuirse orm, sin an méid. Bhí mé an-tógtha leis an taispeántas féin, gan trácht ar an méid a tharla.
+— Don't be like that, Mom, Dad is right. You don't need to be worried. I'm really okay, he said nonchalantly. — I'm not in any pain. I am tired, that's all. I was very taken with the exhibit itself, without speaking to what happened.
 
-Rinne a thuismitheoirí miongháire agus d'éirigh siad ina seasamh.
+His parents smiles and stood up.
 
-— Tá go maith, a Phóil, arsa a Mham, fágfaimid tú le codladh a dhéanamh. Tiocfaimid faoi do choinne anocht, ceart go leor? An bhfuil tú ag iarraidh rud ar bith — irisí, do Ghameboy?
+— That's great, Paul, said his mom, we will leave you to get some sleep. We will come for your appointment tonight, okay? Do you want anything — magazines, your Gameboy?
 
-— Níl, tá mé go breá. Feicfidh mé anocht sibh, arsa Pól agus codladh air, agus na súile á ndúnadh aige. Mhothaigh sé a Mham á phógadh ar a chlár éadain agus ansin chuala sé an bheirt acu ag siúl amach agus iad ag caint go ciúin le chéile.
+— No, I'm great. I will see you tonight, sid Paul while falling asleep, and his eyes closed. He felt his mom kissing him on his forehead and then he heard the two of them walking out while they talked quietly together.
 
 D'fhan sé ar feadh nóiméid sular oscail sé a shúile arís. Bhí sé go hiontach a thuismitheoirí a fheiceáil, ach uaireanta . . . uaireanta d'fhéadfadh Mam dul thar fóir. B'fhada ó bhí sé ina pháiste ach . . . ba mhinic a rinne sí dearmad faoi sin ach a dtarlódh an rud is lú dó. Bhí sé deas, ag an am céanna, a fhios a bheith agat go raibh siad buartha fút agus go raibh siad ag tabhairt aire duit.
 
