@@ -10,7 +10,7 @@ Darkness fell immediately but Paul had closed his eyes anyway. He listened, but 
 
 Tic tic tic.
 
-A sound at last. He listened carefully. Something hard hitting against the rocks. And then - a sound of running water, far, far away. And some weird smell, something sharp burning. Paul felt tears gathering in his eyes. What was there? He had to open his eyes, but the fear wouldn't let him do that. He saw a clear picture of the fold eyes of the corpse in his mind. . .
+A sound at last. He listened carefully. Something hard hitting against the rocks. And then - a sound of running water, far, far away. And some weird smell, something sharp burning. Paul felt tears gathering in his eyes. What was there? He had to open his eyes, but the fear wouldn't let him do that. He saw a clear picture of the fold eyes of the corpse in his mind. .. ..
 
 Eventually, he attempted to open his eyes. He drew a breath when he saw the things that were all around him. There was no museum, nor the other students! Where was Mrs. Russell, Tomas, and the exhibit? And Aodh?
 
@@ -34,21 +34,21 @@ Tic tic tic. That same hard sound but it was higher now. And a sound of running 
 
 Paul felt a puff of warm wind on his face. He looked in and saw an incredible sight. There were series of men and women sitting in another large long love cave, all of them dressed as he was. Thought Paul, from the gold color that was on their skin and from their dark eyes, that they were of Manatana origin. Every single one turned to look at him when he walked into the cave and he felt another cold chill in the middle of his back when the dark eyes looked at him, eyes that were without pity.
 
-In ainneoin a eagla, shiúil Pól idir an dá líne fhada go dtí ceann eile na pluaise. Chaith bladhmanna na dtóirsí a bhí ar na ballaí scáileanna thar na haghaidheanna crua, scáileanna a chuir cuma lofa ghránna orthu. Rinne Pól iarracht neamhshuim a dhéanamh díobh ach bhí rud éigin ina súile feargacha a tharraing a aird orthu arís agus arís eile.
+Despite his fear, Paul walked between the two long lines to another one of the caves. Chaith bladhmanna na dtóirsí a bhí ar na ballaí scáileanna thar na haghaidheanna crua, scáileanna a chuir cuma lofa ghránna orthu. Paul attempted to be disinterested in them but something was in their angry eyes that drew his attention to them again and again.
 
-Ansin, chuala sé fuaim an uisce ag gluaiseacht arís. Chonaic sé uisce ag rith ón tsíleáil agus síos na ballaí taobh thiar de na daoine. Ina ainneoin féin shiúil sé go dtí an balla ar an taobh dheis le fáil amach cad as a raibh an t-uisce ag teacht. Ón tsíleáil. Ach ní raibh sé in ann poll nó scoilt a fheiceáil. Lean an t-uisce ina shruth síos an charraig dhorcha go dtí go ndeachaigh sé as radharc san urlár.
+Then, he heard the sound of water moving again. He saw water running from the ceiling and down the walls behind the people. In spite of himself he walked to the wall on the right side to find out from where the water was coming. From the ceiling. But he was not able to see a hole or a fissure. The water followed in its flow down the dark rock until it went out of sight in the floor.
 
-Dath an-dorcha go deo a bhí ar an uisce, dar leis, ach nuair a léim spréacha as tóirse a bhí cóngarach dó, tháinig fonn múisce air. Ní uisce a bhí ag titim ina shruthanna móra leathana síos na ballaí, ach fuil!
+The water was always a very dark color, it seemed to him, but when sparks jumped from torches that were close to him, the desire to vomit came over him. It was not water that was falling in a large broad stream down the walls, but blood!
 
-Ag an nóiméad sin thosaigh an fhuil ag bailiú thart ar a chosa nochta agus, gan mhoill, bhí sé ina sheasamh i lochán fola.
+At that minute the blood started to gather around his bare feet and, without delay, he stood in a pool of blood.
 
-Agus é ar tí scread a ligean, chuala Pól an fhuaim eile: tic tic tic. Léim a shúile i ngach treo agus é ag iarraidh teacht ar fhoinse na fuaime. Chonaic sé, ag ceann eile na pluaise, ar chathaoir a bhí déanta as cinn chnámharlaigh, seanduine seargtha . . . an duine céanna a bhí feicthe aige sa sarcófagas san iarsmalann.
+On the point of letting out a scream, Paul heard the other sound: tic tic tic. His eyes jumped everywhere while he hoped the source of the sound would come. He saw, at the other end of the cave, in a chair that was made from a skeleton, an old withered man. .. .. the same person that he had seen in the sarcophagus in the museum.
 
-Bhreathnaigh sé ar Phól le súile fuara, na súile á leathdhúnadh aige le scrúdú a dhéanamh ar an mbuachaill a bhí os a chomhair.
+He looked at Paul with cold eyes, the eyes being half-closed in order to examine the boy that was in front of him.
 
-Bhí ceann de sciatháin na cathaoireach á bhualadh go mall ag na hingne fada salacha ar cheann de lámha an draoi: tic tic tic. Líon an fhuaim scanrúil cloigeann Phóil anois – tic tic tic. D'ardaigh an seanfhear an lámh eile agus thug comhartha do Phól teacht níos cóngaraí dó. Bhí eagla a chraicinn ar Phól agus fonn air rith as an áit, ach ina ainneoin sin, bhog sé níos cóngaraí don chathaoir mhór. De réir mar a bhí sé ag teacht níos cóngaraí bhí corp an tseanduine ag athrú os comhair a dhá shúl. Bhuail uafás Pól. Rinneadh crúba de lámha an draoi. Thosaigh athrú ag teacht ar a aghaidh. Go tobann, aghaidh phearóide a bhí air.
+The ends of the arms of the chair were being tapped slowly by the long dirty nails on the ends of the magician's hands: tic tic tic. The frightening sound now filled Paul's head - tic tic tic. The old man raised the other hand and gave a sign to Paul to come closer to him. Paul was frightened out of his skin and wanted to run from the pace, but despite that, he moved closer to the large chair. As he was coming closer, the body of the old man was changing in front of his eyes. Panic hit Paul. The magician's hand formed into a claw. A change started coming across his face. Suddenly, a parrot's face was there.
 
 Tic tic tic.
 
-D'oscail an pearóid-duine a ghob agus lig sé scréach ard ghéar. Thit dorchadas iomlán.
+The Parrot-Man opened its mouth and let out a loud sharp screach. Total darkness fell.
 
