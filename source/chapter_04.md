@@ -68,4 +68,10 @@ Tháinig critheagla air agus dhún sé a shúile go teann agus é ag iarraidh de
 
 Ansin, tháinig tromluí air.
 
-Teas. Bhí sé uafásach te. Bhí míshuaimhneas air. Bhí a chuid éadaigh oíche greamaithe dá dhroim agus taise na foraoise mórthimpeall air ag meascadh leis an allas.
+Teas. Bhí sé uafásach te. Bhí míshuaimhneas air. Bhí a chuid éadaigh oíche greamaithe dá dhroim agus taise na foraoise mórthimpeall air ag meascadh leis an allas. Foraois? Chonacthas dó gur ina sheasamh i bplásóg bheag i bhforaois theochreasach a bhí sé. Bhí feithidí agus éin choimhthíocha ag eitilt mórthimpeall. Chuala sé ainmhithe eile ag búiríl áit éigin i measc na gcrann, ainmhithe móra cuid acu, cheap sé. Fíochmhar? Ní raibh a fhios aige.
+
+Bhí iarsmaí d'fhoirgneamh éigin ar an taobh eile den phlásóg. Chuir sé igcuimhne dó ceann de na teampaill sin a bhí feicthe aige ar chlár teilifíse faoi na hAstacaigh tamall ó shin. Ansin, agus gana fhios aige igceart cén fáth, thosaigh sé ag siúl go faiteach idtreo an fhoirgnimh. Rinne sé iarracht é féin a stopadh ach ní raibh sé in ann. Ní stopfadh a chosa. Bhí a chosa á iompar níos cóngaraí agus níos cóngaraí don seanteampall. Pirimid mhíshlachtmhar a bhí inti le céimeanna garbha ag dul ó bhun go barr uirthi. Bhí foirgneamh beag eile ar bharr an teampaill, foirgneamh dronuilleogach. Ní raibh fuinneog ar bith ann ach bhí oscailt, nó poll dorcha, le feiceáil ag barr na gcéimeanna.
+
+Arís agus arís eile, rinne Pól iarracht dul i dtreo eile, stopadh, dul ar a ghlúine, rud ar bith ach dul i dtreo an teampaill. Ach ní raibh sé in ann. Chuir sé a chos nocht ar an gcéad chéim agus mhothaigh sé an charraig gharbh á scríobadh mar a dhéanfadh páirín. Mhothaigh sé na céimeanna crua faoina chosa. Tromluí. Chaithfeadh sé cuimhneamh gur tromluí a bhí ann. Ach de réir mar a bhí a chosa á iompar suas na céimeanna go dtí an teampall, tháinig imní níos mó air. Céard a tharlódh mura tromluí a bhí ann? Cén chaoi a raibh sé tar éis teacht go dtí an áit ghránna seo- trí dhraíocht éigin?
+
+Mura tromluí a bhí ann, céard a tharlódh dó tar éis dó an poll dorcha sin ag an mbarr a bhaint amach? Ach 

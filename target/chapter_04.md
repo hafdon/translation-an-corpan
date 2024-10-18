@@ -68,4 +68,10 @@ A shaking fear came on him and he closed his eyes tightly while he tried to forg
 
 Then, he had a nightmare.
 
-Heat. He was terribly hot. The air was agitated. Some of his night clothes attached in the back while the moisture of the forest around him mixed with the sweat.
+Heat. He was terribly hot. The air was agitated. Some of his night clothes attached in the back while the moisture of the forest around him mixed with the sweat.  Forest? It appeared to him that he was standing in a small level area in a tropical forest. Exotic insects and birds were flying around. He heard other animals bellowing somewhere in the middle of the trees, large animals some of them, he thought. Fierce? He didn't know.
+
+Some building ruins were on the other side of the clearing. It put him in mind of the end of that temple that was seen by him on a television program about the Aztec a while ago. Then and without the knowledge at him correct what reason, he started walking towards the building. He tried to stop himself but he wasn't able. He couldn't stop his feet. His feet were carrying him closer and closer to the old temple. It was an untidy pyramid with rough steps going from bottom to top.  There was another small building at the top of the temple, a rectangular building. There wasn't any window but there was an opening, or a dark hole, to be seen at the top of the steps.
+
+Again and again, Paul made an attempt to go in another direction, to stop, to go on his knees, anything but going in the direction of the temple. But he wasn't able. He put his naked foot on the first step and he felt the rough stone scraping him like sandpaper would do. He felt the hard steps under his feet. A nightmare. He had to remember that this was a nightmare. Ach de réir mar a bhí a chosa á iompar suas na céimeanna go dtí an teampall, tháinig imní níos mó air. Céard a tharlódh mura tromluí a bhí ann? Cén chaoi a raibh sé tar éis teacht go dtí an áit ghránna seo- trí dhraíocht éigin?
+
+Mura tromluí a bhí ann, céard a tharlódh dó tar éis dó an poll dorcha sin ag an mbarr a bhaint amach? Ach
